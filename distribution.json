@@ -784,8 +784,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 11816101,
-            "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/servers/GDNMC_Server-1.20.1/forgemods/required/born_in_chaos_[Forge]1.20.1_1.7.2.jar",
+            "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/servers/GDNMC_Server-1.20.1/forgemods/optionaloff/born_in_chaos_[Forge]1.20.1_1.7.2.jar",
             "MD5": "53c0274da230c0b83864a8f1043d0a60"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -874,8 +878,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 28960284,
-            "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/servers/GDNMC_Server-1.20.1/forgemods/required/eeeabsmobs-1.20.1-0.97-Fix.jar",
+            "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/servers/GDNMC_Server-1.20.1/forgemods/optionaloff/eeeabsmobs-1.20.1-0.97-Fix.jar",
             "MD5": "813f1d151432c585d96f2dcdaf5fcddd"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -964,8 +972,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 21854126,
-            "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/servers/GDNMC_Server-1.20.1/forgemods/required/iceandfire-2.1.13-1.20.1-beta-5.jar",
+            "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/servers/GDNMC_Server-1.20.1/forgemods/optionaloff/iceandfire-2.1.13-1.20.1-beta-5.jar",
             "MD5": "cadbfab46fa1b02f9a9b09fa5cf86803"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
