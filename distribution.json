@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "2.0.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -30,7 +30,7 @@
           "artifact": {
             "size": 4466148,
             "MD5": "2b5b6ccfa3c6ffcea9073d13d1ec5236",
-            "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/repo/lib/net/minecraftforge/forge/1.12.2-14.23.5.2860/forge-1.12.2-14.23.5.2860-universal.jar"
+            "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecraftforge/forge/1.12.2-14.23.5.2860/forge-1.12.2-14.23.5.2860-universal.jar"
           },
           "subModules": [
             {
@@ -40,7 +40,7 @@
               "artifact": {
                 "size": 11799,
                 "MD5": "fdf65dd024faa5c9a51372e5fb975dfe",
-                "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/repo/versions/1.12.2-forge-14.23.5.2860/1.12.2-forge-14.23.5.2860.json"
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/versions/1.12.2-forge-14.23.5.2860/1.12.2-forge-14.23.5.2860.json"
               }
             },
             {
@@ -50,7 +50,7 @@
               "artifact": {
                 "size": 387903,
                 "MD5": "fe5f20404ccdee9769ef05dc4b47ba98",
-                "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/repo/lib/org/ow2/asm/asm-debug-all/5.2/asm-debug-all-5.2.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/ow2/asm/asm-debug-all/5.2/asm-debug-all-5.2.jar"
               }
             },
             {
@@ -60,7 +60,7 @@
               "artifact": {
                 "size": 32999,
                 "MD5": "934b2d91c7c5be4a49577c9e6b40e8da",
-                "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/repo/lib/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar"
               }
             },
             {
@@ -70,7 +70,7 @@
               "artifact": {
                 "size": 614590,
                 "MD5": "4c20d2879ed2bd75a0771ce29e89f6b0",
-                "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/repo/lib/org/jline/jline/3.5.1/jline-3.5.1.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/jline/jline/3.5.1/jline-3.5.1.jar"
               }
             },
             {
@@ -80,7 +80,7 @@
               "artifact": {
                 "size": 2514991,
                 "MD5": "541440ca0819ebada47d6d1a8b3ee9e1",
-                "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/repo/lib/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar"
               }
             },
             {
@@ -90,7 +90,7 @@
               "artifact": {
                 "size": 219554,
                 "MD5": "3aaf3c6e76a68e732c17d4a7e9877d81",
-                "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/repo/lib/com/typesafe/config/1.2.1/config-1.2.1.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/com/typesafe/config/1.2.1/config-1.2.1.jar"
               }
             },
             {
@@ -100,7 +100,7 @@
               "artifact": {
                 "size": 58018,
                 "MD5": "f5e79398daa1806f8b17311a3c782723",
-                "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/repo/lib/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar"
               }
             },
             {
@@ -110,7 +110,7 @@
               "artifact": {
                 "size": 13449765,
                 "MD5": "06030143bf86ca896fb6ccfd679b5760",
-                "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/repo/lib/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar"
               }
             },
             {
@@ -120,7 +120,7 @@
               "artifact": {
                 "size": 25365,
                 "MD5": "004d7007abbcee858d3ca2c3ccbcbaab",
-                "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/repo/lib/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2_mc/scala-continuations-library_2.11-1.0.2_mc.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2_mc/scala-continuations-library_2.11-1.0.2_mc.jar"
               }
             },
             {
@@ -130,7 +130,7 @@
               "artifact": {
                 "size": 206575,
                 "MD5": "359c4a6743a082c689039482eed78670",
-                "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/repo/lib/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2_mc/scala-continuations-plugin_2.11.1-1.0.2_mc.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2_mc/scala-continuations-plugin_2.11.1-1.0.2_mc.jar"
               }
             },
             {
@@ -140,7 +140,7 @@
               "artifact": {
                 "size": 5538130,
                 "MD5": "1d88f665219e6006c5dd82d71c525c0f",
-                "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/repo/lib/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar"
               }
             },
             {
@@ -150,7 +150,7 @@
               "artifact": {
                 "size": 419701,
                 "MD5": "4e694499c965af4a02599c99d4f0b196",
-                "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/repo/lib/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar"
               }
             },
             {
@@ -160,7 +160,7 @@
               "artifact": {
                 "size": 4372892,
                 "MD5": "7878fac044e4e4b576bb35a77ccc34fc",
-                "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/repo/lib/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar"
               }
             },
             {
@@ -170,7 +170,7 @@
               "artifact": {
                 "size": 726500,
                 "MD5": "1009d69e4948045383f2a7a334348af5",
-                "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/repo/lib/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar"
               }
             },
             {
@@ -180,7 +180,7 @@
               "artifact": {
                 "size": 648679,
                 "MD5": "c2d7e66495afe14545c31b21e99879ef",
-                "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/repo/lib/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar"
               }
             },
             {
@@ -190,7 +190,7 @@
               "artifact": {
                 "size": 5762,
                 "MD5": "a3e3c3186e41c4a1a3027ba2bb23cdc6",
-                "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/repo/lib/lzma/lzma/0.0.1/lzma-0.0.1.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/lzma/lzma/0.0.1/lzma-0.0.1.jar"
               }
             },
             {
@@ -200,7 +200,7 @@
               "artifact": {
                 "size": 318956,
                 "MD5": "e5d2b7f46c4800a32f62ce75676a5710",
-                "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/repo/lib/java3d/vecmath/1.5.2/vecmath-1.5.2.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/java3d/vecmath/1.5.2/vecmath-1.5.2.jar"
               }
             },
             {
@@ -210,7 +210,7 @@
               "artifact": {
                 "size": 2523218,
                 "MD5": "8fc4d4e0129244f9fd39650c5f30feb2",
-                "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/repo/lib/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar"
               }
             },
             {
@@ -220,7 +220,7 @@
               "artifact": {
                 "size": 54961,
                 "MD5": "7741ebf29690ee7d9dde9cf4376347fc",
-                "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/repo/lib/org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar"
               }
             },
             {
@@ -230,7 +230,7 @@
               "artifact": {
                 "size": 78175,
                 "MD5": "0a5ec84e23df9d7cfb4063bc55f2744c",
-                "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/repo/lib/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar"
               }
             },
             {
@@ -240,7 +240,7 @@
               "artifact": {
                 "size": 301804,
                 "MD5": "a9ccfa7e3382dd2b9e0647a43d8286d7",
-                "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/repo/lib/org/apache/logging/log4j/log4j-api/2.15.0/log4j-api-2.15.0.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/apache/logging/log4j/log4j-api/2.15.0/log4j-api-2.15.0.jar"
               }
             },
             {
@@ -250,7 +250,7 @@
               "artifact": {
                 "size": 1789769,
                 "MD5": "81e0433ae00602c0e4d00424d213b0ab",
-                "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/repo/lib/org/apache/logging/log4j/log4j-core/2.15.0/log4j-core-2.15.0.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/apache/logging/log4j/log4j-core/2.15.0/log4j-core-2.15.0.jar"
               }
             }
           ]
@@ -261,7 +261,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 937797,
-            "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/servers/GDNMC_Server-1.12.2/forgemods/optionalon/GravityGun-1.12.2-7.1.0.jar",
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.12.2/forgemods/optionalon/GravityGun-1.12.2-7.1.0.jar",
             "MD5": "ad1c5b5ea0c963eac4e03c3cd1f373cd"
           },
           "required": {
@@ -274,7 +274,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 75657429,
-            "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/servers/GDNMC_Server-1.12.2/forgemods/optionalon/hbm-1.8.4a-G.jar",
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.12.2/forgemods/optionalon/hbm-1.8.4a-G.jar",
             "MD5": "482f5bc0932786e648970da3a01379ef"
           },
           "required": {
@@ -287,7 +287,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 581963,
-            "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/servers/GDNMC_Server-1.12.2/forgemods/optionalon/iChunUtil-1.12.2-7.2.2.jar",
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.12.2/forgemods/optionalon/iChunUtil-1.12.2-7.2.2.jar",
             "MD5": "bf13a2044ece544b449c7dc6f8aa40af"
           },
           "required": {
@@ -300,7 +300,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 655406,
-            "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/servers/GDNMC_Server-1.12.2/forgemods/optionalon/jei_1.12.2-4.16.1.1013.jar",
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.12.2/forgemods/optionalon/jei_1.12.2-4.16.1.1013.jar",
             "MD5": "155469b1e6be853ba4b273044bc4a68e"
           },
           "required": {
@@ -313,7 +313,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1717073,
-            "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/servers/GDNMC_Server-1.12.2/forgemods/optionalon/PortalGun-1.12.2-7.1.0.jar",
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.12.2/forgemods/optionalon/PortalGun-1.12.2-7.1.0.jar",
             "MD5": "2219e579132b53719ef21ea78934f4c3"
           },
           "required": {
@@ -346,7 +346,7 @@
           "artifact": {
             "size": 7400,
             "MD5": "9445bd28cb8bbf3405bcacc54627a6da",
-            "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/repo/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.2.20/lowcodelanguage-1.20.1-47.2.20.jar"
+            "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.2.20/lowcodelanguage-1.20.1-47.2.20.jar"
           },
           "subModules": [
             {
@@ -356,7 +356,7 @@
               "artifact": {
                 "size": 16554,
                 "MD5": "2b7daf23d11fff0d0e2b7ae54712dbdf",
-                "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/repo/versions/1.20.1-forge-47.2.20/1.20.1-forge-47.2.20.json"
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/versions/1.20.1-forge-47.2.20/1.20.1-forge-47.2.20.json"
               }
             },
             {
@@ -367,7 +367,7 @@
               "artifact": {
                 "size": 118686,
                 "MD5": "a710f72f170f88737ff72a53ea1349d8",
-                "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/repo/lib/net/minecraftforge/fmlcore/1.20.1-47.2.20/fmlcore-1.20.1-47.2.20.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecraftforge/fmlcore/1.20.1-47.2.20/fmlcore-1.20.1-47.2.20.jar"
               },
               "subModules": []
             },
@@ -379,7 +379,7 @@
               "artifact": {
                 "size": 16517,
                 "MD5": "3521da7e51982c2ace3a21ffe4070693",
-                "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.2.20/javafmllanguage-1.20.1-47.2.20.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.2.20/javafmllanguage-1.20.1-47.2.20.jar"
               },
               "subModules": []
             },
@@ -391,7 +391,7 @@
               "artifact": {
                 "size": 4999,
                 "MD5": "4aeef0ba963dfbe0c4104b6532989988",
-                "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/repo/lib/net/minecraftforge/mclanguage/1.20.1-47.2.20/mclanguage-1.20.1-47.2.20.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecraftforge/mclanguage/1.20.1-47.2.20/mclanguage-1.20.1-47.2.20.jar"
               },
               "subModules": []
             },
@@ -403,7 +403,7 @@
               "artifact": {
                 "size": 2679250,
                 "MD5": "27de7a3f2e5c69d54bc52cb179831aa9",
-                "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/repo/lib/net/minecraftforge/forge/1.20.1-47.2.20/forge-1.20.1-47.2.20-universal.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecraftforge/forge/1.20.1-47.2.20/forge-1.20.1-47.2.20-universal.jar"
               },
               "subModules": []
             },
@@ -415,7 +415,7 @@
               "artifact": {
                 "size": 4791301,
                 "MD5": "c548aeb8e9e1cd028005b628b54f3a29",
-                "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/repo/lib/net/minecraftforge/forge/1.20.1-47.2.20/forge-1.20.1-47.2.20-client.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecraftforge/forge/1.20.1-47.2.20/forge-1.20.1-47.2.20-client.jar"
               },
               "subModules": []
             },
@@ -427,7 +427,7 @@
               "artifact": {
                 "size": 18842082,
                 "MD5": "8bfacfba4f54cda741019756165c5ecf",
-                "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar"
               },
               "subModules": []
             },
@@ -439,7 +439,7 @@
               "artifact": {
                 "size": 12592249,
                 "MD5": "28edebec7b5a007bc9961ee9bab4d764",
-                "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-slim.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-slim.jar"
               },
               "subModules": []
             },
@@ -451,7 +451,7 @@
               "artifact": {
                 "size": 10436626,
                 "MD5": "da6bb1a2c23108392fd6c103da40867c",
-                "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-extra.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-extra.jar"
               },
               "subModules": []
             },
@@ -462,7 +462,7 @@
               "artifact": {
                 "size": 88749,
                 "MD5": "d9ff48d1c68388270388b803fa42611e",
-                "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/repo/lib/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar"
               }
             },
             {
@@ -472,7 +472,7 @@
               "artifact": {
                 "size": 121863,
                 "MD5": "29721ee4b5eacf0a34b204c345c8bc69",
-                "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/repo/lib/org/ow2/asm/asm/9.5/asm-9.5.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/ow2/asm/asm/9.5/asm-9.5.jar"
               }
             },
             {
@@ -482,7 +482,7 @@
               "artifact": {
                 "size": 72209,
                 "MD5": "7d1fce986192f71722b19754e4cb9e61",
-                "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/repo/lib/org/ow2/asm/asm-commons/9.5/asm-commons-9.5.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/ow2/asm/asm-commons/9.5/asm-commons-9.5.jar"
               }
             },
             {
@@ -492,7 +492,7 @@
               "artifact": {
                 "size": 51944,
                 "MD5": "44755681b7d6fa7143afbb438e55c20c",
-                "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/repo/lib/org/ow2/asm/asm-tree/9.5/asm-tree-9.5.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/ow2/asm/asm-tree/9.5/asm-tree-9.5.jar"
               }
             },
             {
@@ -502,7 +502,7 @@
               "artifact": {
                 "size": 91076,
                 "MD5": "ad0016249fb68bb9196babefd47b80dc",
-                "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/repo/lib/org/ow2/asm/asm-util/9.5/asm-util-9.5.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/ow2/asm/asm-util/9.5/asm-util-9.5.jar"
               }
             },
             {
@@ -512,7 +512,7 @@
               "artifact": {
                 "size": 33978,
                 "MD5": "4df0adafc78ebba404d4037987d36b61",
-                "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/repo/lib/org/ow2/asm/asm-analysis/9.5/asm-analysis-9.5.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/ow2/asm/asm-analysis/9.5/asm-analysis-9.5.jar"
               }
             },
             {
@@ -522,7 +522,7 @@
               "artifact": {
                 "size": 77756,
                 "MD5": "f0d3533f9437ba4428eaee9f28f7ecd9",
-                "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/repo/lib/net/minecraftforge/accesstransformers/8.0.4/accesstransformers-8.0.4.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecraftforge/accesstransformers/8.0.4/accesstransformers-8.0.4.jar"
               }
             },
             {
@@ -532,7 +532,7 @@
               "artifact": {
                 "size": 337868,
                 "MD5": "0dcc4b860d5d8d2852ab94d58c56ca2d",
-                "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
               }
             },
             {
@@ -542,7 +542,7 @@
               "artifact": {
                 "size": 53985,
                 "MD5": "2a6245210b446b2144071e71ca13432b",
-                "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/repo/lib/net/minecraftforge/eventbus/6.0.5/eventbus-6.0.5.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecraftforge/eventbus/6.0.5/eventbus-6.0.5.jar"
               }
             },
             {
@@ -552,7 +552,7 @@
               "artifact": {
                 "size": 29831,
                 "MD5": "bd34d20287dc95201fe9475a8bbc2540",
-                "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/repo/lib/net/minecraftforge/forgespi/7.0.1/forgespi-7.0.1.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecraftforge/forgespi/7.0.1/forgespi-7.0.1.jar"
               }
             },
             {
@@ -562,7 +562,7 @@
               "artifact": {
                 "size": 24199,
                 "MD5": "8c590051c5d65e098ca7c2e3ddf803a8",
-                "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/repo/lib/net/minecraftforge/coremods/5.0.1/coremods-5.0.1.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecraftforge/coremods/5.0.1/coremods-5.0.1.jar"
               }
             },
             {
@@ -572,7 +572,7 @@
               "artifact": {
                 "size": 130343,
                 "MD5": "07507d18d72661f8ae6a5da75bbf35be",
-                "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/repo/lib/cpw/mods/modlauncher/10.0.9/modlauncher-10.0.9.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/cpw/mods/modlauncher/10.0.9/modlauncher-10.0.9.jar"
               }
             },
             {
@@ -582,7 +582,7 @@
               "artifact": {
                 "size": 2834,
                 "MD5": "2d1016ebe4c1a63dd50a59d26bd12db1",
-                "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
               }
             },
             {
@@ -592,7 +592,7 @@
               "artifact": {
                 "size": 2572,
                 "MD5": "8df9c5bf87d004ddb884eca99bc2a4b1",
-                "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/repo/lib/net/minecraftforge/mergetool/1.1.5/mergetool-1.1.5-api.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecraftforge/mergetool/1.1.5/mergetool-1.1.5-api.jar"
               }
             },
             {
@@ -602,7 +602,7 @@
               "artifact": {
                 "size": 199834,
                 "MD5": "d83ab07267e402131fb93d899a57f5cd",
-                "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/repo/lib/com/electronwill/night-config/core/3.6.4/core-3.6.4.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/com/electronwill/night-config/core/3.6.4/core-3.6.4.jar"
               }
             },
             {
@@ -612,7 +612,7 @@
               "artifact": {
                 "size": 31816,
                 "MD5": "bc95d0709fff2164b01fd09fbc988be8",
-                "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/repo/lib/com/electronwill/night-config/toml/3.6.4/toml-3.6.4.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/com/electronwill/night-config/toml/3.6.4/toml-3.6.4.jar"
               }
             },
             {
@@ -622,7 +622,7 @@
               "artifact": {
                 "size": 58077,
                 "MD5": "ce473b0d9fbfd10fe147f03fe8707d67",
-                "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/repo/lib/org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar"
               }
             },
             {
@@ -632,7 +632,7 @@
               "artifact": {
                 "size": 18281,
                 "MD5": "d4a375bf382f726cf1a650ccb38a736c",
-                "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/repo/lib/net/jodah/typetools/0.6.3/typetools-0.6.3.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/jodah/typetools/0.6.3/typetools-0.6.3.jar"
               }
             },
             {
@@ -642,7 +642,7 @@
               "artifact": {
                 "size": 15977,
                 "MD5": "679363fa893293791e55a21f81342f87",
-                "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
               }
             },
             {
@@ -652,7 +652,7 @@
               "artifact": {
                 "size": 150765,
                 "MD5": "a2e7b012cd9802f83321187409174a94",
-                "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/repo/lib/org/jline/jline-reader/3.12.1/jline-reader-3.12.1.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/jline/jline-reader/3.12.1/jline-reader-3.12.1.jar"
               }
             },
             {
@@ -662,7 +662,7 @@
               "artifact": {
                 "size": 211712,
                 "MD5": "3c52be5ab5e3847be6e62269de924cb0",
-                "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/repo/lib/org/jline/jline-terminal/3.12.1/jline-terminal-3.12.1.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/jline/jline-terminal/3.12.1/jline-terminal-3.12.1.jar"
               }
             },
             {
@@ -672,7 +672,7 @@
               "artifact": {
                 "size": 1089277,
                 "MD5": "19b3a2ae9e445a6e626fd7d1648cfcb8",
-                "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/repo/lib/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar"
               }
             },
             {
@@ -682,7 +682,7 @@
               "artifact": {
                 "size": 2167288,
                 "MD5": "91e98c20afa1090c344229ce28b4c53f",
-                "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/repo/lib/org/openjdk/nashorn/nashorn-core/15.3/nashorn-core-15.3.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/openjdk/nashorn/nashorn-core/15.3/nashorn-core-15.3.jar"
               }
             },
             {
@@ -692,7 +692,7 @@
               "artifact": {
                 "size": 17374,
                 "MD5": "2bb6cbe0e6c6fbcd8f92d2e6b1ea678e",
-                "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/repo/lib/net/minecraftforge/JarJarSelector/0.3.19/JarJarSelector-0.3.19.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecraftforge/JarJarSelector/0.3.19/JarJarSelector-0.3.19.jar"
               }
             },
             {
@@ -702,7 +702,7 @@
               "artifact": {
                 "size": 15895,
                 "MD5": "9633546d299d4282ca68d10582be1c8f",
-                "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/repo/lib/net/minecraftforge/JarJarMetadata/0.3.19/JarJarMetadata-0.3.19.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecraftforge/JarJarMetadata/0.3.19/JarJarMetadata-0.3.19.jar"
               }
             },
             {
@@ -712,7 +712,7 @@
               "artifact": {
                 "size": 8284,
                 "MD5": "48f5255aa337344c467c0150d347813d",
-                "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/repo/lib/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar"
               }
             },
             {
@@ -722,7 +722,7 @@
               "artifact": {
                 "size": 32195,
                 "MD5": "c2be1a88b63eb1b58b00ab6e498cd97d",
-                "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/repo/lib/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar"
               }
             },
             {
@@ -732,7 +732,7 @@
               "artifact": {
                 "size": 264185,
                 "MD5": "acee22eaf221c8cd61225002596f7640",
-                "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/repo/lib/net/minecraftforge/fmlloader/1.20.1-47.2.20/fmlloader-1.20.1-47.2.20.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecraftforge/fmlloader/1.20.1-47.2.20/fmlloader-1.20.1-47.2.20.jar"
               }
             },
             {
@@ -742,7 +742,7 @@
               "artifact": {
                 "size": 170553,
                 "MD5": "b54b6fe4bd44788dcc6655f3399541f4",
-                "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/repo/lib/net/minecraftforge/fmlearlydisplay/1.20.1-47.2.20/fmlearlydisplay-1.20.1-47.2.20.jar"
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecraftforge/fmlearlydisplay/1.20.1-47.2.20/fmlearlydisplay-1.20.1-47.2.20.jar"
               }
             }
           ]
@@ -753,7 +753,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 47428,
-            "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/servers/GDNMC_Server-1.20.1/forgemods/optionalon/appleskin-forge-mc1.20.1-2.5.1.jar",
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionalon/appleskin-forge-mc1.20.1-2.5.1.jar",
             "MD5": "dae63cea9c951dda542a4005ceef3953"
           },
           "required": {
@@ -766,11 +766,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 12430237,
-            "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/servers/GDNMC_Server-1.20.1/forgemods/optionalon/ars_nouveau-1.20.1-4.12.7-all.jar",
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/ars_nouveau-1.20.1-4.12.7-all.jar",
             "MD5": "cdd1952cc0031831b37db0f6d6c6ceb1"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -779,11 +776,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 96753,
-            "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/servers/GDNMC_Server-1.20.1/forgemods/optionalon/balloons_by_doriteam-1.2.0-forge-1.20.1.jar",
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/balloons_by_doriteam-1.2.0-forge-1.20.1.jar",
             "MD5": "3d61ace2f898e1a94ed1861d7076ee9d"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -792,11 +786,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1050118,
-            "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/servers/GDNMC_Server-1.20.1/forgemods/optionalon/bettercombat-forge-1.8.6_1.20.1.jar",
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/bettercombat-forge-1.8.6_1.20.1.jar",
             "MD5": "28f4682af86e8bdee7b808fa0adbdf81"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -805,7 +796,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 11816101,
-            "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/servers/GDNMC_Server-1.20.1/forgemods/optionaloff/born_in_chaos_[Forge]1.20.1_1.7.2.jar",
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionaloff/born_in_chaos_[Forge]1.20.1_1.7.2.jar",
             "MD5": "53c0274da230c0b83864a8f1043d0a60"
           },
           "required": {
@@ -819,11 +810,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1706529,
-            "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/servers/GDNMC_Server-1.20.1/forgemods/optionalon/CGM-Unofficial-1.4.18_Forge+1.20.1.jar",
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/CGM-Unofficial-1.4.18_Forge+1.20.1.jar",
             "MD5": "3413330757df08ae0fb43fd97c551d22"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -832,11 +820,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3185379,
-            "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/servers/GDNMC_Server-1.20.1/forgemods/optionalon/citadel-2.6.2-1.20.1.jar",
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/citadel-2.6.2-1.20.1.jar",
             "MD5": "f027b4f6862b99a1e0516353fb3ef0fc"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -845,11 +830,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1181413,
-            "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/servers/GDNMC_Server-1.20.1/forgemods/optionalon/cloth-config-11.1.136-forge.jar",
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/cloth-config-11.1.136-forge.jar",
             "MD5": "ca5de5acbcb4a30c010aa6953bd7ef53"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -858,11 +840,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 360700,
-            "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/servers/GDNMC_Server-1.20.1/forgemods/optionalon/Corgilib-Forge-1.20.1-4.0.3.4.jar",
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/Corgilib-Forge-1.20.1-4.0.3.4.jar",
             "MD5": "a9ea019fc3f069f5f47f0d8451dac4cd"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -871,11 +850,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 18764522,
-            "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/servers/GDNMC_Server-1.20.1/forgemods/optionalon/create-1.20.1-6.0.6.jar",
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/create-1.20.1-6.0.6.jar",
             "MD5": "0bdb2789d1708a9de227c8ef05a830d9"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -884,11 +860,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 398066,
-            "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/servers/GDNMC_Server-1.20.1/forgemods/optionalon/curios-forge-5.14.1-1.20.1.jar",
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/curios-forge-5.14.1-1.20.1.jar",
             "MD5": "2fdcc97cbc66c4b2492b407c792e7159"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -897,11 +870,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 112059,
-            "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/servers/GDNMC_Server-1.20.1/forgemods/optionalon/Data_Anchor-forge-1.20.1-1.0.0.19.jar",
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/Data_Anchor-forge-1.20.1-1.0.0.19.jar",
             "MD5": "390bf89fbee5b92a9cf2fd99f4ad103b"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -910,11 +880,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 15150694,
-            "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/servers/GDNMC_Server-1.20.1/forgemods/optionalon/deepwaters%201.20.1%2025.3.jar",
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/deepwaters%201.20.1%2025.3.jar",
             "MD5": "f78e80c4698bdaeabd2d9da37059cb33"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -923,7 +890,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 28960284,
-            "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/servers/GDNMC_Server-1.20.1/forgemods/optionaloff/eeeabsmobs-1.20.1-0.97-Fix.jar",
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionaloff/eeeabsmobs-1.20.1-0.97-Fix.jar",
             "MD5": "813f1d151432c585d96f2dcdaf5fcddd"
           },
           "required": {
@@ -937,11 +904,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2285317,
-            "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/servers/GDNMC_Server-1.20.1/forgemods/optionalon/effortlessbuilding-1.20.1-3.10.jar",
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/effortlessbuilding-1.20.1-3.10.jar",
             "MD5": "a57660341d13ed1cc5d4f1dae9f79e20"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -950,11 +914,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 14616,
-            "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/servers/GDNMC_Server-1.20.1/forgemods/optionalon/endportalframerecipe-1.1.1-1.20.1.jar",
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/endportalframerecipe-1.1.1-1.20.1.jar",
             "MD5": "541c3cff3ac06ec1f25ac76337649fbf"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -963,11 +924,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1624784,
-            "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/servers/GDNMC_Server-1.20.1/forgemods/optionalon/Enhanced-Celestials-forge-1.20.1-5.0.3.1.jar",
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/Enhanced-Celestials-forge-1.20.1-5.0.3.1.jar",
             "MD5": "d83cea0cac58debe63e17f4dd52c3eee"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -976,11 +934,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2978080,
-            "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/servers/GDNMC_Server-1.20.1/forgemods/optionalon/FarmersDelight-1.20.1-1.2.9.jar",
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/FarmersDelight-1.20.1-1.2.9.jar",
             "MD5": "71e177a98e0e6f399761ad00e978d177"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -989,11 +944,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 309560,
-            "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/servers/GDNMC_Server-1.20.1/forgemods/optionalon/framework-forge-1.20.1-0.7.15.jar",
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/framework-forge-1.20.1-0.7.15.jar",
             "MD5": "135716c910b1036a6dd2f0fe0bc7b03d"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -1002,11 +954,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1012611,
-            "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/servers/GDNMC_Server-1.20.1/forgemods/optionalon/geckolib-forge-1.20.1-4.7.3.jar",
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.7.3.jar",
             "MD5": "771fb21a83d735260ff271092d8cc311"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -1015,11 +964,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 317010,
-            "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/servers/GDNMC_Server-1.20.1/forgemods/optionalon/gravestone-forge-1.20.1-1.0.32.jar",
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/gravestone-forge-1.20.1-1.0.32.jar",
             "MD5": "e89a1da9163be53bef0b7e1eacb82fc2"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -1028,11 +974,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 199780,
-            "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/servers/GDNMC_Server-1.20.1/forgemods/optionalon/guardvillagers-1.20.1-1.6.11.jar",
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/guardvillagers-1.20.1-1.6.11.jar",
             "MD5": "df25eb193865e3d7d63a2a36704e2819"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -1041,7 +984,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 21854126,
-            "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/servers/GDNMC_Server-1.20.1/forgemods/optionaloff/iceandfire-2.1.13-1.20.1-beta-5.jar",
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionaloff/iceandfire-2.1.13-1.20.1-beta-5.jar",
             "MD5": "cadbfab46fa1b02f9a9b09fa5cf86803"
           },
           "required": {
@@ -1055,11 +998,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2075496,
-            "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/servers/GDNMC_Server-1.20.1/forgemods/optionalon/infinity_cave-0.4-1.20.1-FORGE.jar",
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/infinity_cave-0.4-1.20.1-FORGE.jar",
             "MD5": "0a7efcef19109d19ca2690a5601bde49"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -1068,7 +1008,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1385600,
-            "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/servers/GDNMC_Server-1.20.1/forgemods/optionalon/jei-1.20.1-forge-15.20.0.112.jar",
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionalon/jei-1.20.1-forge-15.20.0.112.jar",
             "MD5": "c899d5b549ace1e9fa46700c778c3809"
           },
           "required": {
@@ -1081,11 +1021,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7160405,
-            "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/servers/GDNMC_Server-1.20.1/forgemods/optionalon/journeymap-1.20.1-5.10.3-forge.jar",
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/journeymap-1.20.1-5.10.3-forge.jar",
             "MD5": "2181bd6b7161f06726560b9382235611"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -1094,11 +1031,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1989566,
-            "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/servers/GDNMC_Server-1.20.1/forgemods/optionalon/lucky-block-forge-1.20.1-13.0.jar",
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/lucky-block-forge-1.20.1-13.0.jar",
             "MD5": "4f0ee5a791cdb770fbc2ac22f98648c5"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -1107,11 +1041,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1480444,
-            "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/servers/GDNMC_Server-1.20.1/forgemods/optionalon/Mantle-1.20.1-1.11.79.jar",
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/Mantle-1.20.1-1.11.79.jar",
             "MD5": "19cf5725471882f2f65182e70f9c98ef"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -1120,11 +1051,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2001939,
-            "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/servers/GDNMC_Server-1.20.1/forgemods/optionalon/MigaMisDevilFruits-0.2.1-1.20.1.jar",
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/MigaMisDevilFruits-0.2.1-1.20.1.jar",
             "MD5": "73d9794b673626dbf79fe072d3686084"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -1133,11 +1061,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 304462,
-            "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/servers/GDNMC_Server-1.20.1/forgemods/optionalon/minerally-1.20.2-1.3.jar",
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/minerally-1.20.2-1.3.jar",
             "MD5": "60e68dbba4ae86193e379cf2f4435ad2"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -1146,11 +1071,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 173882,
-            "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/servers/GDNMC_Server-1.20.1/forgemods/optionalon/monolib-forge-1.20.1-2.1.0.jar",
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/monolib-forge-1.20.1-2.1.0.jar",
             "MD5": "3e3d3f1f66ef9b1bb15f70f51d1c52ac"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -1159,11 +1081,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1334303,
-            "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/servers/GDNMC_Server-1.20.1/forgemods/optionalon/MutantMonsters-v8.0.7-1.20.1-Forge.jar",
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/MutantMonsters-v8.0.7-1.20.1-Forge.jar",
             "MD5": "30d40ea999368084775492b128e0db24"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -1172,11 +1091,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3202589,
-            "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/servers/GDNMC_Server-1.20.1/forgemods/optionalon/mysticrift_pharaohs_legacy-16.22.31-forge-1.20.1.jar",
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/mysticrift_pharaohs_legacy-16.22.31-forge-1.20.1.jar",
             "MD5": "e769df0d3778e2a308cb8c389455fc4b"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -1185,11 +1101,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 272748,
-            "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/servers/GDNMC_Server-1.20.1/forgemods/optionalon/new_shield_variants-merged-1.20.1-2.1.0.jar",
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/new_shield_variants-merged-1.20.1-2.1.0.jar",
             "MD5": "daaaae688c6deaa587824bf662c23e31"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -1198,11 +1111,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 642711,
-            "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/servers/GDNMC_Server-1.20.1/forgemods/optionalon/Patchouli-1.20.1-84.1-FORGE.jar",
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/Patchouli-1.20.1-84.1-FORGE.jar",
             "MD5": "d5154cacf6859582eebd853bd59f5537"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -1211,11 +1121,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 181437,
-            "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/servers/GDNMC_Server-1.20.1/forgemods/optionalon/player-animation-lib-forge-1.0.2-rc1-1.20.jar",
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/player-animation-lib-forge-1.0.2-rc1-1.20.jar",
             "MD5": "46f8554181d4d240075ea4919d01fd01"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -1224,11 +1131,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 458810,
-            "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/servers/GDNMC_Server-1.20.1/forgemods/optionalon/POP-1.0-1.20.1.jar",
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/POP-1.0-1.20.1.jar",
             "MD5": "c0efa826af95d56e2a20db88def005e7"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -1237,11 +1141,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1342987,
-            "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/servers/GDNMC_Server-1.20.1/forgemods/optionalon/PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
             "MD5": "19f23e3040eaadc7c30ae38f5a3dec68"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -1250,11 +1151,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 14935230,
-            "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/servers/GDNMC_Server-1.20.1/forgemods/optionalon/Quark-4.0-462.jar",
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/Quark-4.0-462.jar",
             "MD5": "6eef0d0ac52df0c239cb443abc137f3d"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -1263,11 +1161,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 13921363,
-            "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/servers/GDNMC_Server-1.20.1/forgemods/optionalon/sculkhorde-1.20.1-0.10.5.jar",
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/sculkhorde-1.20.1-0.10.5.jar",
             "MD5": "23c866f8d039ebf997e237e61899ea2a"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -1276,11 +1171,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3210580,
-            "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/servers/GDNMC_Server-1.20.1/forgemods/optionalon/SlashBlade-1.20.1-0.1.2.jar",
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/SlashBlade-1.20.1-0.1.2.jar",
             "MD5": "3318d7730c88d3b1bac0b53465a4c1a8"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -1289,11 +1181,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 47826468,
-            "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/servers/GDNMC_Server-1.20.1/forgemods/optionalon/tacz-1.20.1-1.1.6-hotfix.jar",
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/tacz-1.20.1-1.1.6-hotfix.jar",
             "MD5": "51636447584a75f8d2db2fb930d110b1"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -1302,11 +1191,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 19792115,
-            "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/servers/GDNMC_Server-1.20.1/forgemods/optionalon/TConstruct-1.20.1-3.10.2.92.jar",
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/TConstruct-1.20.1-3.10.2.92.jar",
             "MD5": "f509c2dc7895504a1ccd7860a2fb7a47"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -1315,11 +1201,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 20724106,
-            "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/servers/GDNMC_Server-1.20.1/forgemods/optionalon/touhoulittlemaid-1.20.1-release-1.3.6.jar",
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/touhoulittlemaid-1.20.1-release-1.3.6.jar",
             "MD5": "2c28ce438db711539188aa384926397e"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -1328,11 +1211,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 23332091,
-            "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/servers/GDNMC_Server-1.20.1/forgemods/optionalon/twilightforest-1.20.1-4.3.2508-universal.jar",
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/twilightforest-1.20.1-4.3.2508-universal.jar",
             "MD5": "0e1ca36ec2ca7e35059dea1600aa31ee"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -1341,11 +1221,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1006574,
-            "url": "http://launcher-assets.mc.gdev.f5.si/ModPacks/servers/GDNMC_Server-1.20.1/forgemods/optionalon/Zeta-1.0-30.jar",
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/Zeta-1.0-30.jar",
             "MD5": "9fa915bd7e2c64217223b6a98ab5dc47"
-          },
-          "required": {
-            "value": false
           }
         }
       ]
