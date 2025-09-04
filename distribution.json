@@ -1,5 +1,5 @@
 {
-  "version": "2.0.0",
+  "version": "1.0.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -748,6 +748,16 @@
           ]
         },
         {
+          "id": "net.minecraft:storagebox:3.2.4@jar",
+          "name": "Storage Box",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 100240,
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/[1.20.1][forge47.1.0]mod_StorageBox_v3.2.5.jar",
+            "MD5": "fb5bf328b5153b451c94063092766bc0"
+          }
+        },
+        {
           "id": "squeek.appleskin:appleskin:2.5.1+mc1.20.1@jar",
           "name": "AppleSkin",
           "type": "ForgeMod",
@@ -810,7 +820,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1706529,
-            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/CGM-Unofficial-1.4.18_Forge+1.20.1.jar",
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/CGM-Unofficial-1.4.18_Forge-1.20.1.jar",
             "MD5": "3413330757df08ae0fb43fd97c551d22"
           }
         },
