@@ -24,7 +24,7 @@ jobs:
       - name: Checkout Nebula
         uses: actions/checkout@v2
         with:
-          repository: TeamKun/ModNebula
+          repository: dscalzi/Nebula
 
       - name: Checkout Packs
         uses: actions/checkout@v2
@@ -43,7 +43,7 @@ jobs:
           architecture: x64
 
       - name: Create .env
-        run: echo -e "JAVA_EXECUTABLE=$(which java)\nROOT=$GITHUB_WORKSPACE/packs\nBASE_URL=https://raw.githubusercontent.com/$GITHUB_REPOSITORY/deploy/" > .env
+        run: echo -e "JAVA_EXECUTABLE=$(which java)\nROOT=$GITHUB_WORKSPACE/packs\nBASE_URL=https://launcher-assets.mc.gdev.f5.si/" > .env
 
       - name: Setup Nebula
         run: |
@@ -66,4 +66,5 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: deploy
           directory: ./packs
+
           force: true
