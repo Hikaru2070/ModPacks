@@ -1178,6 +1178,16 @@
           }
         },
         {
+          "id": "net.mehvahdjukaar:moonlight:1.20-2.16.14@jar",
+          "name": "Moonlight Library",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1333892,
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/moonlight-1.20-2.16.14-forge.jar",
+            "MD5": "db089c7230678965aa22cf7ba0049462"
+          }
+        },
+        {
           "id": "com.cerbon:myths_of_the_sea:1.0.0@jar",
           "name": "MythsOfTheSea",
           "type": "ForgeMod",
