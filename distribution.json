@@ -911,6 +911,26 @@
           }
         },
         {
+          "id": "plus.dragons.createenchantmentindustry:create_enchantment_industry:1.3.3-for-create-6.0.6@jar",
+          "name": "Create Enchantment Industry",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 488060,
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/create_enchantment_industry-1.3.3-for-create-6.0.6.jar",
+            "MD5": "6f5f44bb2db0d2916a8ce3e60dae02cf"
+          }
+        },
+        {
+          "id": "com.oierbravo.createmechanicalextruder:create_mechanical_extruder:1.20.1-1.6.10-6.0.6@jar",
+          "name": "Create Mechanical Extruder",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 513561,
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/create_mecanical_extruder-1.20.1-1.6.11-6.0.6.jar",
+            "MD5": "1efc306ab05c8e8aec85c25e75eaf063"
+          }
+        },
+        {
           "id": "com.simibubi:create:6.0.6@jar",
           "name": "Create",
           "type": "ForgeMod",
@@ -918,6 +938,16 @@
             "size": 18764522,
             "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/create-1.20.1-6.0.6.jar",
             "MD5": "0bdb2789d1708a9de227c8ef05a830d9"
+          }
+        },
+        {
+          "id": "com.oierbravo:createsifter:1.20.1-1.8.6-6.0.6@jar",
+          "name": "Create Sifter",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 620951,
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/createsifter-1.20.1-1.8.6-6.0.6.jar",
+            "MD5": "035ae4f82f0d1440c48087e6becb46f7"
           }
         },
         {
@@ -958,6 +988,16 @@
             "size": 2059812,
             "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/drizzleproof-1.20.1-2.0.3-all.jar",
             "MD5": "cac14a8423b4b18d77d12816b71b1116"
+          }
+        },
+        {
+          "id": "net.mehvahdjukaar:dummmmmmy:1.20-2.0.9@jar",
+          "name": "MmmMmmMmmmmm",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 363044,
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/dummmmmmy-1.20-2.0.9.jar",
+            "MD5": "4d3c04e63f560cfb51d100b7a4e78563"
           }
         },
         {
@@ -1065,6 +1105,16 @@
           }
         },
         {
+          "id": "immersive_melodies:immersive_melodies:0.6.0+1.20.1@jar",
+          "name": "Immersive Melodies",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5517578,
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/immersive_melodies-0.6.0+1.20.1-forge.jar",
+            "MD5": "9b2903b86fbc565a3996b2d1fd78eb0d"
+          }
+        },
+        {
           "id": "com.frozy:infinity_cave:0.4@jar",
           "name": "Infinity Cave",
           "type": "ForgeMod",
@@ -1165,6 +1215,16 @@
             "size": 272748,
             "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/new_shield_variants-merged-1.20.1-2.1.0.jar",
             "MD5": "daaaae688c6deaa587824bf662c23e31"
+          }
+        },
+        {
+          "id": "net.tysontheember.orbitalrailgun:orbital_railgun:1.1.0@jar",
+          "name": "Orbital Railgun Forge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 798470,
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/orbital_railgun-1.1.0.jar",
+            "MD5": "86301fbf7c4fd1489a62db2637223e97"
           }
         },
         {
@@ -1288,6 +1348,16 @@
           }
         },
         {
+          "id": "net.mcreator.threateninglymobs:threateningly_mobs:1.0.9.7@jar",
+          "name": "Threateningly mobs",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7601621,
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/threateningly_mobs-1.0.9.7-forge-1.20.1.jar",
+            "MD5": "3c5d9c5c22e8d1f012b35c92339e0754"
+          }
+        },
+        {
           "id": "com.github.tartaricacid.touhoulittlemaid:touhou_little_maid:1.4.0-forge+mc1.20.1@jar",
           "name": "Touhou Little Maid",
           "type": "ForgeMod",
@@ -1298,6 +1368,16 @@
           }
         },
         {
+          "id": "net.mcreator.triplecakemod:triple_cake_mod:1.0@jar",
+          "name": "Triple Cake  MOD",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 75980,
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/Triple%20Cake%20Mod%20-%201.20.1.jar",
+            "MD5": "550c90bee7a9b3580b27adc56a774d95"
+          }
+        },
+        {
           "id": "twilightforest:twilightforest:4.3.2508@jar",
           "name": "The Twilight Forest",
           "type": "ForgeMod",
@@ -1305,6 +1385,16 @@
             "size": 23332091,
             "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/twilightforest-1.20.1-4.3.2508-universal.jar",
             "MD5": "0e1ca36ec2ca7e35059dea1600aa31ee"
+          }
+        },
+        {
+          "id": "dev.xkmc.youkaishomecoming.init:youkaishomecoming:2.6.1@jar",
+          "name": "Youkai's Homecoming",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6044519,
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/youkaishomecoming-2.6.1.jar",
+            "MD5": "6e699fd31cfb2926f7ff479384b094af"
           }
         },
         {
@@ -1325,7 +1415,7 @@
       "description": "仮サーバー Running Minecraft 1.20.1 (Forge v47.4.6)",
       "icon": "https://launcher-assets.mc.gdev.f5.si/servers/%E4%BB%AE%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.20.1/pack.png",
       "version": "1.0.0",
-      "address": "162.43.54.42:25565",
+      "address": "localhost:25565",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
