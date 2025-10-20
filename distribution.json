@@ -1095,6 +1095,16 @@
           }
         },
         {
+          "id": "com.sakurafuld:hyperdaimc:1201.2.4@jar",
+          "name": "§6§oHyperlink",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1601439,
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/Hyperlink-1201.2.4.jar",
+            "MD5": "83fb95f816543c3498255a3a6a0cb066"
+          }
+        },
+        {
           "id": "com.github.alexthe666:iceandfire:2.1.13-1.20.1@jar",
           "name": "Ice and Fire",
           "type": "ForgeMod",
@@ -1285,6 +1295,16 @@
             "size": 14935230,
             "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/Quark-4.0-462.jar",
             "MD5": "6eef0d0ac52df0c239cb443abc137f3d"
+          }
+        },
+        {
+          "id": "committee.nova.mods:avaritia:1.3.9.3@jar",
+          "name": "Re-Avaritia-forged",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3624208,
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/Re-Avaritia-forged-1.20.1-1.3.9.3-alpha4.jar",
+            "MD5": "78961ff592eee9a1d8ea9aef2009e807"
           }
         },
         {
