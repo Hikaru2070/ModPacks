@@ -1748,6 +1748,16 @@
           }
         },
         {
+          "id": "generated.forgemod:codechickenlib:1.7.10-1.1.3.141-universal@jar",
+          "name": "CodeChickenLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 311450,
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.7.10/forgemods/required/CodeChickenLib-1.7.10-1.1.3.141-universal.jar",
+            "MD5": "b65fa954bb32611d9b42ae3352915473"
+          }
+        },
+        {
           "id": "generated.forgemod:FN5728:1.7.x-0.0.2@jar",
           "name": "FN5728Guns",
           "type": "ForgeMod",
