@@ -1440,13 +1440,13 @@
       ]
     },
     {
-      "id": "仮サーバー-1.20.1",
-      "name": "仮サーバー (Minecraft 1.20.1)",
-      "description": "仮サーバー Running Minecraft 1.20.1 (Forge v47.4.6)",
-      "icon": "https://launcher-assets.mc.gdev.f5.si/servers/%E4%BB%AE%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.20.1/pack.png",
+      "id": "GDNMC_Server-1.7.10",
+      "name": "GDNMC_Server (Minecraft 1.7.10)",
+      "description": "GDNMC_Server Running Minecraft 1.7.10 (Forge v10.13.4.1614)",
+      "icon": null,
       "version": "1.0.0",
       "address": "localhost:25565",
-      "minecraftVersion": "1.20.1",
+      "minecraftVersion": "1.7.10",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -1456,438 +1456,505 @@
       "autoconnect": false,
       "modules": [
         {
-          "id": "net.minecraftforge:lowcodelanguage:1.20.1-47.4.6",
-          "name": "Minecraft Forge (lowcodelanguage)",
+          "id": "net.minecraftforge:forge:1.7.10-10.13.4.1614-1.7.10:universal",
+          "name": "Minecraft Forge",
           "type": "ForgeHosted",
-          "classpath": true,
           "artifact": {
-            "size": 7399,
-            "MD5": "9862132d0a0a37f068c889b0ad375891",
-            "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.4.6/lowcodelanguage-1.20.1-47.4.6.jar"
+            "size": 3018833,
+            "MD5": "add0fba161c4652a96efb4264ec2d9ec",
+            "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forge-1.7.10-10.13.4.1614-1.7.10-universal.jar"
           },
           "subModules": [
             {
-              "id": "1.20.1-47.4.6",
-              "name": "Minecraft Forge (version.json)",
-              "type": "VersionManifest",
+              "id": "net.minecraft:launchwrapper:1.12@jar",
+              "name": "Minecraft Forge (launchwrapper)",
+              "type": "Library",
               "artifact": {
-                "size": 16612,
-                "MD5": "3ce7115d31535823f1ff2833d52d111e",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/versions/1.20.1-forge-47.4.6/1.20.1-forge-47.4.6.json"
+                "size": 32999,
+                "MD5": "934b2d91c7c5be4a49577c9e6b40e8da",
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar"
               }
             },
             {
-              "id": "net.minecraftforge:fmlcore:1.20.1-47.4.6",
-              "name": "Minecraft Forge (fmlcore)",
-              "type": "Library",
-              "classpath": true,
-              "artifact": {
-                "size": 118914,
-                "MD5": "92d54a31cb969a217ff40951505f5ca2",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecraftforge/fmlcore/1.20.1-47.4.6/fmlcore-1.20.1-47.4.6.jar"
-              },
-              "subModules": []
-            },
-            {
-              "id": "net.minecraftforge:javafmllanguage:1.20.1-47.4.6",
-              "name": "Minecraft Forge (javafmllanguage)",
-              "type": "Library",
-              "classpath": true,
-              "artifact": {
-                "size": 16855,
-                "MD5": "2d45834d0825f64a179e8d6c9bc55c86",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.4.6/javafmllanguage-1.20.1-47.4.6.jar"
-              },
-              "subModules": []
-            },
-            {
-              "id": "net.minecraftforge:mclanguage:1.20.1-47.4.6",
-              "name": "Minecraft Forge (mclanguage)",
-              "type": "Library",
-              "classpath": true,
-              "artifact": {
-                "size": 4999,
-                "MD5": "9dadcf0b0d9d367ba1657cff4e1c494f",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecraftforge/mclanguage/1.20.1-47.4.6/mclanguage-1.20.1-47.4.6.jar"
-              },
-              "subModules": []
-            },
-            {
-              "id": "net.minecraftforge:forge:1.20.1-47.4.6:universal",
-              "name": "Minecraft Forge (universal jar)",
-              "type": "Library",
-              "classpath": false,
-              "artifact": {
-                "size": 2777559,
-                "MD5": "cf5c836bee40de8be50d319a73eea8d5",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecraftforge/forge/1.20.1-47.4.6/forge-1.20.1-47.4.6-universal.jar"
-              },
-              "subModules": []
-            },
-            {
-              "id": "net.minecraftforge:forge:1.20.1-47.4.6:client",
-              "name": "Minecraft Forge (client jar)",
-              "type": "Library",
-              "classpath": false,
-              "artifact": {
-                "size": 4847909,
-                "MD5": "d7513f255b916168f0893987b2a9de55",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecraftforge/forge/1.20.1-47.4.6/forge-1.20.1-47.4.6-client.jar"
-              },
-              "subModules": []
-            },
-            {
-              "id": "net.minecraft:client:1.20.1-20230612.114412:srg",
-              "name": "Minecraft Forge (client srg)",
-              "type": "Library",
-              "classpath": false,
-              "artifact": {
-                "size": 18842082,
-                "MD5": "8bfacfba4f54cda741019756165c5ecf",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar"
-              },
-              "subModules": []
-            },
-            {
-              "id": "net.minecraft:client:1.20.1-20230612.114412:slim",
-              "name": "Minecraft Forge (client slim)",
-              "type": "Library",
-              "classpath": false,
-              "artifact": {
-                "size": 12592249,
-                "MD5": "28edebec7b5a007bc9961ee9bab4d764",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-slim.jar"
-              },
-              "subModules": []
-            },
-            {
-              "id": "net.minecraft:client:1.20.1-20230612.114412:extra",
-              "name": "Minecraft Forge (client extra)",
-              "type": "Library",
-              "classpath": false,
-              "artifact": {
-                "size": 10436626,
-                "MD5": "da6bb1a2c23108392fd6c103da40867c",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-extra.jar"
-              },
-              "subModules": []
-            },
-            {
-              "id": "cpw.mods:securejarhandler:2.1.10",
-              "name": "Minecraft Forge (securejarhandler)",
+              "id": "org.ow2.asm:asm-all:5.0.3@jar",
+              "name": "Minecraft Forge (asm-all)",
               "type": "Library",
               "artifact": {
-                "size": 88749,
-                "MD5": "d9ff48d1c68388270388b803fa42611e",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar"
+                "size": 241639,
+                "MD5": "c5cc4613bbdfba3ccf5f0ab85390d0b8",
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/ow2/asm/asm-all/5.0.3/asm-all-5.0.3.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm:9.7.1",
-              "name": "Minecraft Forge (asm)",
+              "id": "com.typesafe.akka:akka-actor_2.11:2.3.3@jar",
+              "name": "Minecraft Forge (akka-actor_2.11)",
               "type": "Library",
               "artifact": {
-                "size": 126093,
-                "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
+                "size": 2514991,
+                "MD5": "541440ca0819ebada47d6d1a8b3ee9e1",
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-commons:9.7.1",
-              "name": "Minecraft Forge (asm-commons)",
+              "id": "com.typesafe:config:1.2.1@jar",
+              "name": "Minecraft Forge (config)",
               "type": "Library",
               "artifact": {
-                "size": 73459,
-                "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
+                "size": 219554,
+                "MD5": "3aaf3c6e76a68e732c17d4a7e9877d81",
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/com/typesafe/config/1.2.1/config-1.2.1.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-tree:9.7.1",
-              "name": "Minecraft Forge (asm-tree)",
+              "id": "org.scala-lang:scala-actors-migration_2.11:1.1.0@jar",
+              "name": "Minecraft Forge (scala-actors-migration_2.11)",
               "type": "Library",
               "artifact": {
-                "size": 51939,
-                "MD5": "e85029f613b6469989cc7cf53fe06b74",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
+                "size": 58018,
+                "MD5": "f5e79398daa1806f8b17311a3c782723",
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-util:9.7.1",
-              "name": "Minecraft Forge (asm-util)",
+              "id": "org.scala-lang:scala-compiler:2.11.1@jar",
+              "name": "Minecraft Forge (scala-compiler)",
               "type": "Library",
               "artifact": {
-                "size": 94519,
-                "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
+                "size": 13449765,
+                "MD5": "06030143bf86ca896fb6ccfd679b5760",
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-analysis:9.7.1",
-              "name": "Minecraft Forge (asm-analysis)",
+              "id": "org.scala-lang.plugins:scala-continuations-library_2.11:1.0.2@jar",
+              "name": "Minecraft Forge (scala-continuations-library_2.11)",
               "type": "Library",
               "artifact": {
-                "size": 35126,
-                "MD5": "4cd9e7178dfb85371bba3077e40cd514",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
+                "size": 25365,
+                "MD5": "004d7007abbcee858d3ca2c3ccbcbaab",
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2/scala-continuations-library_2.11-1.0.2.jar"
               }
             },
             {
-              "id": "net.minecraftforge:accesstransformers:8.0.4",
-              "name": "Minecraft Forge (accesstransformers)",
+              "id": "org.scala-lang.plugins:scala-continuations-plugin_2.11.1:1.0.2@jar",
+              "name": "Minecraft Forge (scala-continuations-plugin_2.11.1)",
               "type": "Library",
               "artifact": {
-                "size": 77756,
-                "MD5": "f0d3533f9437ba4428eaee9f28f7ecd9",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecraftforge/accesstransformers/8.0.4/accesstransformers-8.0.4.jar"
+                "size": 206575,
+                "MD5": "359c4a6743a082c689039482eed78670",
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2.jar"
               }
             },
             {
-              "id": "org.antlr:antlr4-runtime:4.9.1",
-              "name": "Minecraft Forge (antlr4-runtime)",
+              "id": "org.scala-lang:scala-library:2.11.1@jar",
+              "name": "Minecraft Forge (scala-library)",
               "type": "Library",
               "artifact": {
-                "size": 337868,
-                "MD5": "0dcc4b860d5d8d2852ab94d58c56ca2d",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
+                "size": 5538130,
+                "MD5": "1d88f665219e6006c5dd82d71c525c0f",
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar"
               }
             },
             {
-              "id": "net.minecraftforge:eventbus:6.0.5",
-              "name": "Minecraft Forge (eventbus)",
+              "id": "org.scala-lang:scala-parser-combinators_2.11:1.0.1@jar",
+              "name": "Minecraft Forge (scala-parser-combinators_2.11)",
               "type": "Library",
               "artifact": {
-                "size": 53985,
-                "MD5": "2a6245210b446b2144071e71ca13432b",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecraftforge/eventbus/6.0.5/eventbus-6.0.5.jar"
+                "size": 419701,
+                "MD5": "4e694499c965af4a02599c99d4f0b196",
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar"
               }
             },
             {
-              "id": "net.minecraftforge:forgespi:7.0.1",
-              "name": "Minecraft Forge (forgespi)",
+              "id": "org.scala-lang:scala-reflect:2.11.1@jar",
+              "name": "Minecraft Forge (scala-reflect)",
               "type": "Library",
               "artifact": {
-                "size": 29831,
-                "MD5": "bd34d20287dc95201fe9475a8bbc2540",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecraftforge/forgespi/7.0.1/forgespi-7.0.1.jar"
+                "size": 4372892,
+                "MD5": "7878fac044e4e4b576bb35a77ccc34fc",
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar"
               }
             },
             {
-              "id": "net.minecraftforge:coremods:5.2.4",
-              "name": "Minecraft Forge (coremods)",
+              "id": "org.scala-lang:scala-swing_2.11:1.0.1@jar",
+              "name": "Minecraft Forge (scala-swing_2.11)",
               "type": "Library",
               "artifact": {
-                "size": 31872,
-                "MD5": "5295505357ba9b98450c5e3121f82191",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecraftforge/coremods/5.2.4/coremods-5.2.4.jar"
+                "size": 726500,
+                "MD5": "1009d69e4948045383f2a7a334348af5",
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar"
               }
             },
             {
-              "id": "cpw.mods:modlauncher:10.0.9",
-              "name": "Minecraft Forge (modlauncher)",
+              "id": "org.scala-lang:scala-xml_2.11:1.0.2@jar",
+              "name": "Minecraft Forge (scala-xml_2.11)",
               "type": "Library",
               "artifact": {
-                "size": 130343,
-                "MD5": "07507d18d72661f8ae6a5da75bbf35be",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/cpw/mods/modlauncher/10.0.9/modlauncher-10.0.9.jar"
+                "size": 648679,
+                "MD5": "c2d7e66495afe14545c31b21e99879ef",
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar"
               }
             },
             {
-              "id": "net.minecraftforge:unsafe:0.2.0",
-              "name": "Minecraft Forge (unsafe)",
+              "id": "lzma:lzma:0.0.1@jar",
+              "name": "Minecraft Forge (lzma)",
               "type": "Library",
               "artifact": {
-                "size": 2834,
-                "MD5": "2d1016ebe4c1a63dd50a59d26bd12db1",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
+                "size": 5762,
+                "MD5": "a3e3c3186e41c4a1a3027ba2bb23cdc6",
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/lzma/lzma/0.0.1/lzma-0.0.1.jar"
               }
             },
             {
-              "id": "net.minecraftforge:mergetool:1.1.5:api",
-              "name": "Minecraft Forge (mergetool)",
+              "id": "net.sf.jopt-simple:jopt-simple:4.5@jar",
+              "name": "Minecraft Forge (jopt-simple)",
               "type": "Library",
               "artifact": {
-                "size": 2572,
-                "MD5": "8df9c5bf87d004ddb884eca99bc2a4b1",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecraftforge/mergetool/1.1.5/mergetool-1.1.5-api.jar"
+                "size": 61311,
+                "MD5": "1372bd4823bb1ef61e7db6724f601150",
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/sf/jopt-simple/jopt-simple/4.5/jopt-simple-4.5.jar"
               }
             },
             {
-              "id": "com.electronwill.night-config:core:3.6.4",
-              "name": "Minecraft Forge (core)",
+              "id": "com.google.guava:guava:17.0@jar",
+              "name": "Minecraft Forge (guava)",
               "type": "Library",
               "artifact": {
-                "size": 199834,
-                "MD5": "d83ab07267e402131fb93d899a57f5cd",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/com/electronwill/night-config/core/3.6.4/core-3.6.4.jar"
+                "size": 2243036,
+                "MD5": "89fef81c2adfa9b50a64ed5cd5d8c155",
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/com/google/guava/guava/17.0/guava-17.0.jar"
               }
             },
             {
-              "id": "com.electronwill.night-config:toml:3.6.4",
-              "name": "Minecraft Forge (toml)",
+              "id": "org.apache.commons:commons-lang3:3.3.2@jar",
+              "name": "Minecraft Forge (commons-lang3)",
               "type": "Library",
               "artifact": {
-                "size": 31816,
-                "MD5": "bc95d0709fff2164b01fd09fbc988be8",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/com/electronwill/night-config/toml/3.6.4/toml-3.6.4.jar"
-              }
-            },
-            {
-              "id": "org.apache.maven:maven-artifact:3.8.5",
-              "name": "Minecraft Forge (maven-artifact)",
-              "type": "Library",
-              "artifact": {
-                "size": 58077,
-                "MD5": "ce473b0d9fbfd10fe147f03fe8707d67",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar"
-              }
-            },
-            {
-              "id": "net.jodah:typetools:0.6.3",
-              "name": "Minecraft Forge (typetools)",
-              "type": "Library",
-              "artifact": {
-                "size": 18281,
-                "MD5": "d4a375bf382f726cf1a650ccb38a736c",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/jodah/typetools/0.6.3/typetools-0.6.3.jar"
-              }
-            },
-            {
-              "id": "net.minecrell:terminalconsoleappender:1.2.0",
-              "name": "Minecraft Forge (terminalconsoleappender)",
-              "type": "Library",
-              "artifact": {
-                "size": 15977,
-                "MD5": "679363fa893293791e55a21f81342f87",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
-              }
-            },
-            {
-              "id": "org.jline:jline-reader:3.12.1",
-              "name": "Minecraft Forge (jline-reader)",
-              "type": "Library",
-              "artifact": {
-                "size": 150765,
-                "MD5": "a2e7b012cd9802f83321187409174a94",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/jline/jline-reader/3.12.1/jline-reader-3.12.1.jar"
-              }
-            },
-            {
-              "id": "org.jline:jline-terminal:3.12.1",
-              "name": "Minecraft Forge (jline-terminal)",
-              "type": "Library",
-              "artifact": {
-                "size": 211712,
-                "MD5": "3c52be5ab5e3847be6e62269de924cb0",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/jline/jline-terminal/3.12.1/jline-terminal-3.12.1.jar"
-              }
-            },
-            {
-              "id": "org.spongepowered:mixin:0.8.5",
-              "name": "Minecraft Forge (mixin)",
-              "type": "Library",
-              "artifact": {
-                "size": 1089277,
-                "MD5": "19b3a2ae9e445a6e626fd7d1648cfcb8",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar"
-              }
-            },
-            {
-              "id": "org.openjdk.nashorn:nashorn-core:15.4",
-              "name": "Minecraft Forge (nashorn-core)",
-              "type": "Library",
-              "artifact": {
-                "size": 2167292,
-                "MD5": "a9b3360e6a486cf62c1952c7816b7d97",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/openjdk/nashorn/nashorn-core/15.4/nashorn-core-15.4.jar"
-              }
-            },
-            {
-              "id": "net.minecraftforge:JarJarSelector:0.3.19",
-              "name": "Minecraft Forge (JarJarSelector)",
-              "type": "Library",
-              "artifact": {
-                "size": 17374,
-                "MD5": "2bb6cbe0e6c6fbcd8f92d2e6b1ea678e",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecraftforge/JarJarSelector/0.3.19/JarJarSelector-0.3.19.jar"
-              }
-            },
-            {
-              "id": "net.minecraftforge:JarJarMetadata:0.3.19",
-              "name": "Minecraft Forge (JarJarMetadata)",
-              "type": "Library",
-              "artifact": {
-                "size": 15895,
-                "MD5": "9633546d299d4282ca68d10582be1c8f",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecraftforge/JarJarMetadata/0.3.19/JarJarMetadata-0.3.19.jar"
-              }
-            },
-            {
-              "id": "cpw.mods:bootstraplauncher:1.1.2",
-              "name": "Minecraft Forge (bootstraplauncher)",
-              "type": "Library",
-              "artifact": {
-                "size": 8284,
-                "MD5": "48f5255aa337344c467c0150d347813d",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar"
-              }
-            },
-            {
-              "id": "net.minecraftforge:JarJarFileSystems:0.3.19",
-              "name": "Minecraft Forge (JarJarFileSystems)",
-              "type": "Library",
-              "artifact": {
-                "size": 32195,
-                "MD5": "c2be1a88b63eb1b58b00ab6e498cd97d",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar"
-              }
-            },
-            {
-              "id": "net.minecraftforge:fmlloader:1.20.1-47.4.6",
-              "name": "Minecraft Forge (fmlloader)",
-              "type": "Library",
-              "artifact": {
-                "size": 267078,
-                "MD5": "081d4b34be3e580f7fc0904b23f971bf",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecraftforge/fmlloader/1.20.1-47.4.6/fmlloader-1.20.1-47.4.6.jar"
-              }
-            },
-            {
-              "id": "net.minecraftforge:fmlearlydisplay:1.20.1-47.4.6",
-              "name": "Minecraft Forge (fmlearlydisplay)",
-              "type": "Library",
-              "artifact": {
-                "size": 170517,
-                "MD5": "15335060711d494f864cf23d97802b8f",
-                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/net/minecraftforge/fmlearlydisplay/1.20.1-47.4.6/fmlearlydisplay-1.20.1-47.4.6.jar"
+                "size": 412739,
+                "MD5": "3128bf75a2549ebe38663401191bacab",
+                "url": "https://launcher-assets.mc.gdev.f5.si/repo/lib/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar"
               }
             }
           ]
         },
         {
-          "id": "de.maxhenkel:gravestone:1.20.1-1.0.33@jar",
-          "name": "Gravestone Mod",
+          "id": "generated.forgemod:moSwords:v3@jar",
+          "name": "Mo Swords Mod",
           "type": "ForgeMod",
           "artifact": {
-            "size": 317148,
-            "url": "https://launcher-assets.mc.gdev.f5.si/servers/%E4%BB%AE%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.20.1/forgemods/optionalon/gravestone-forge-1.20.1-1.0.33.jar",
-            "MD5": "238293f49477db2c0664f3cad352dc54"
-          },
-          "required": {
-            "value": false
+            "size": 228202,
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.7.10/forgemods/required/[1.7.10]%20moSwords%20v3b.jar",
+            "MD5": "c1d92b17f6fdeb4e4750857ca34a8e04"
           }
         },
         {
-          "id": "journeymap:journeymap:5.10.3@jar",
-          "name": "Journeymap",
+          "id": "generated.forgemod:MythTools:1.0@jar",
+          "name": "MythTools Rebirth",
           "type": "ForgeMod",
           "artifact": {
-            "size": 7160405,
-            "url": "https://launcher-assets.mc.gdev.f5.si/servers/%E4%BB%AE%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-1.20.1/forgemods/optionalon/journeymap-1.20.1-5.10.3-forge.jar",
-            "MD5": "2181bd6b7161f06726560b9382235611"
-          },
-          "required": {
-            "value": false
+            "size": 151783,
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.7.10/forgemods/required/[1.7.10]%E7%A5%9E%E8%A9%B1%E3%81%AE%E6%AD%A6%E5%99%A8MOD~%E6%94%B9~%20ver1.1.1.jar",
+            "MD5": "758283a92b9e0cc202a0b96cd241a021"
+          }
+        },
+        {
+          "id": "am2.preloader:arsmagica2:1.4.0.009@jar",
+          "name": "Ars Magica 2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 21575745,
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.7.10/forgemods/required/1.7.10_AM2-1.4.0.009.jar",
+            "MD5": "1e4b8c84cda22fd093c5e921374578e9"
+          }
+        },
+        {
+          "id": "generated.forgemod:aether:1.7.10-1.6@jar",
+          "name": "Aether II",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 44630080,
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.7.10/forgemods/required/aether-1.7.10-1.6.jar",
+            "MD5": "cae727ed06154b5e8a9c648d87015845"
+          }
+        },
+        {
+          "id": "generated.forgemod:AnimationAPI:1.7.10-1.2.4@jar",
+          "name": "AnimationAPI",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 14859,
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.7.10/forgemods/required/AnimationAPI-1.7.10-1.2.4.jar",
+            "MD5": "7ec0b391e527461196e86f4e4974f560"
+          }
+        },
+        {
+          "id": "squeek.applecore:applecore:mc1.7.10-3.1.1@jar",
+          "name": "AppleCore",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 106587,
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.7.10/forgemods/required/AppleCore-mc1.7.10-3.1.1.jar",
+            "MD5": "169c63b60ec8a8195733b94cb47ae694"
+          }
+        },
+        {
+          "id": "generated.forgemod:Avaritia:1.13@jar",
+          "name": "Avaritia",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1034833,
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.7.10/forgemods/required/Avaritia-1.13.jar",
+            "MD5": "3afefdb53de17d768ac06ab40f2e0d1a"
+          }
+        },
+        {
+          "id": "generated.forgemod:AS_BattleTowers:1.7.10@jar",
+          "name": "AtomicStryker's Battletowers",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 868474,
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.7.10/forgemods/required/BattleTowers-1.7.10.jar",
+            "MD5": "9ff620e0b14070188aa2efa64cda8faf"
+          }
+        },
+        {
+          "id": "generated.forgemod:caveworld:2.3.3@jar",
+          "name": "Caveworld 2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 11298653,
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.7.10/forgemods/required/Caveworld_1.7.10-v2.3.3.jar",
+            "MD5": "f973a37e82562296151b10593b60a23f"
+          }
+        },
+        {
+          "id": "generated.forgemod:chocolateQuest:1.7.10-1.1d@jar",
+          "name": "Chocolate Quest",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3279175,
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.7.10/forgemods/required/chocolateQuest-1.7.10-1.1d.jar",
+            "MD5": "b1d449af86e5e67c638c81e563426dea"
+          }
+        },
+        {
+          "id": "codechicken.core.launch:codechickencore:1.7.10-1.0.7.48-universal@jar",
+          "name": "CodeChickenCore",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 143985,
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.7.10/forgemods/required/CodeChickenCore-1.7.10-1.0.7.48-universal.jar",
+            "MD5": "9624db3d835155a1be4baef23b7cee31"
+          }
+        },
+        {
+          "id": "generated.forgemod:FN5728:1.7.x-0.0.2@jar",
+          "name": "FN5728Guns",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 245149,
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.7.10/forgemods/required/FN5728Guns-1.7.x_0.0.2.jar",
+            "MD5": "a31e731ec35a2e05659dc7989d3ff2f6"
+          }
+        },
+        {
+          "id": "com.gildedgames.util.threadedlighting:gilded-games-util:1.7.10-1.1@jar",
+          "name": "Gilded Games Utility",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1685994,
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.7.10/forgemods/required/gilded-games-util-1.7.10-1.9.jar",
+            "MD5": "edbaa2684bad49474d2d3cd073fc5007"
+          }
+        },
+        {
+          "id": "generated.forgemod:gravestone:0.7.10.3@jar",
+          "name": "Gravestone",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 71108,
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.7.10/forgemods/required/GraveStone%20Mod%200.7.10.3.jar",
+            "MD5": "25d0d29a6101167a75486f045df85fc2"
+          }
+        },
+        {
+          "id": "generated.forgemod:icbm:classic-1.7.10-2.16.4b3@jar",
+          "name": "ICBM",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5823607,
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.7.10/forgemods/required/ICBM-classic-1.7.10-2.16.4b3.jar",
+            "MD5": "43adcdbfa8612c662eb3ae7d93c2abfc"
+          }
+        },
+        {
+          "id": "invtweaks.forge.asm:inventorytweaks:1.59-dev-152-cf6e263@jar",
+          "name": "Inventory Tweaks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 224461,
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.7.10/forgemods/required/InventoryTweaks-1.59-dev-152.jar",
+            "MD5": "83f7ddcd5f5fd8d640aa15dc62acc6bf"
+          }
+        },
+        {
+          "id": "generated.forgemod:ironchest:1.7.10-6.0.62.742-universal@jar",
+          "name": "Ironchest",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 158104,
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.7.10/forgemods/required/ironchest-1.7.10-6.0.62.742-universal.jar",
+            "MD5": "48d942594459c437ce8e8648ca42a7b9"
+          }
+        },
+        {
+          "id": "generated.forgemod:journeymap:5.2.10@jar",
+          "name": "JourneyMap",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 8937816,
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.7.10/forgemods/required/journeymap-1.7.10-5.2.10-unlimited.jar",
+            "MD5": "02c4eaa181cebeb5e15105bb3e938377"
+          }
+        },
+        {
+          "id": "generated.forgemod:lucky:5.1.0@jar",
+          "name": "Lucky",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 83858,
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.7.10/forgemods/required/lucky-block-forge-1.7.10-1.0.jar",
+            "MD5": "7b22306fce2ced077cedffafad5f1355"
+          }
+        },
+        {
+          "id": "generated.forgemod:mowziesmobs:1.2.99@jar",
+          "name": "Mowzie's Mobs",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2546340,
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.7.10/forgemods/required/MowziesMobs-1.2.99.jar",
+            "MD5": "106b872487345eda950e5869b6afd20f"
+          }
+        },
+        {
+          "id": "generated.forgemod:cfm:�83.4.7@jar",
+          "name": "�9MrCrayfish's Furniture Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1728686,
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.7.10/forgemods/required/MrCrayfishFurnitureModv3.4.7(1.7.10).jar",
+            "MD5": "86926babe733787348533cc1db612584"
+          }
+        },
+        {
+          "id": "generated.forgemod:msm:SNAP-3.0.0e-For-MC-1.7.10@jar",
+          "name": "MSM",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 119712,
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.7.10/forgemods/required/MSM-SNAP-3.0.0e-For-MC-1.7.10.jar",
+            "MD5": "47b589bcd653d8ac8ab94abb6ebfd2da"
+          }
+        },
+        {
+          "id": "com.vicmatskiv.weaponlib.core:mw:0.4.2.4 (Halloween Update)@jar",
+          "name": "Modern Warfare Contagion",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 24659887,
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.7.10/forgemods/required/mw_2.0-0.4.2.4%20(Halloween%20Update)_mc1.7.10.jar",
+            "MD5": "a80eb93360ddb5c1c1a250348a51b2c1"
+          }
+        },
+        {
+          "id": "codechicken.nei:notenoughitems:1.7.10-1.0.5.120-universal@jar",
+          "name": "NotEnoughItems",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 513136,
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.7.10/forgemods/required/NotEnoughItems-1.7.10-1.0.5.120-universal.jar",
+            "MD5": "742e865a9a80071e80976ffedc05700e"
+          }
+        },
+        {
+          "id": "generated.forgemod:orespawn:1.7.10-20.2@jar",
+          "name": "The OreSpawn Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 17541969,
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.7.10/forgemods/required/orespawn-1.7.10-20.3.jar",
+            "MD5": "13ea53604b1d65d4896be301df7dd5f6"
+          }
+        },
+        {
+          "id": "assets.rivalrebels:rivalrebels:1.7.10Z1@jar",
+          "name": "Rival Rebels",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 9399508,
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.7.10/forgemods/required/rivalrebels-yo-1.7.10Z1.jar",
+            "MD5": "f42cdd44ef8be226002214c049cc3641"
+          }
+        },
+        {
+          "id": "generated.forgemod:runicdungeons:1.1.7b@jar",
+          "name": "Runic Dungeons",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 701902,
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.7.10/forgemods/required/RunicDungeons-1.1.7b.jar",
+            "MD5": "e70ddd0f8c8aca216a8ecf91d44e9a38"
+          }
+        },
+        {
+          "id": "generated.forgemod:slashblade:mc1.7.10-r88@jar",
+          "name": "SlashBlade",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3217649,
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.7.10/forgemods/required/SlashBlade-mc1.7.10-r88.jar",
+            "MD5": "39a5c8ecc1ef778c0a1d033385ca5f4a"
+          }
+        },
+        {
+          "id": "generated.forgemod:smashbatsmod:1.4.5_1-MC1.7.2@jar",
+          "name": "SmashBatsMod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 104879,
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.7.10/forgemods/required/SmashBatsMod-1.4.5_1-MC1.7.2.jar",
+            "MD5": "ea58ee262bc0e703d140239d930475df"
+          }
+        },
+        {
+          "id": "generated.forgemod:StorageDrawers:1.7.10-1.10.9@jar",
+          "name": "Storage Drawers",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 589456,
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.7.10/forgemods/required/StorageDrawers-1.7.10-1.10.9.jar",
+            "MD5": "6fe615f1a9ff94dfe1b0641f1fc9fd18"
+          }
+        },
+        {
+          "id": "generated.forgemod:TConstruct:1.8.8.build991@jar",
+          "name": "Tinkers' Construct",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5606642,
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.7.10/forgemods/required/TConstruct-1.7.10-1.8.8.build991.jar",
+            "MD5": "b655f2f7994d9bd1112c826898390908"
+          }
+        },
+        {
+          "id": "generated.forgemod:TwilightForest:2.4.3@jar",
+          "name": "The Twilight Forest",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3675470,
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.7.10/forgemods/required/TwilightForest-2.4.3.jar",
+            "MD5": "30d428b95b21c42363f370f0a55df952"
           }
         }
       ]
