@@ -1828,16 +1828,6 @@
           }
         },
         {
-          "id": "generated.forgemod:mowziesmobs:1.2.99@jar",
-          "name": "Mowzie's Mobs",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2546340,
-            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.7.10/forgemods/required/MowziesMobs-1.2.99.jar",
-            "MD5": "106b872487345eda950e5869b6afd20f"
-          }
-        },
-        {
           "id": "generated.forgemod:cfm:�83.4.7@jar",
           "name": "�9MrCrayfish's Furniture Mod",
           "type": "ForgeMod",
