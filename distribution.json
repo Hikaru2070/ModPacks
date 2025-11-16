@@ -1793,8 +1793,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5823607,
-            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.7.10/forgemods/required/ICBM-classic-1.7.10-2.16.4b3.jar",
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.7.10/forgemods/optionaloff/ICBM-classic-1.7.10-2.16.4b3.jar",
             "MD5": "43adcdbfa8612c662eb3ae7d93c2abfc"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -1835,6 +1839,30 @@
             "size": 83858,
             "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.7.10/forgemods/required/lucky-block-forge-1.7.10-1.0.jar",
             "MD5": "7b22306fce2ced077cedffafad5f1355"
+          }
+        },
+        {
+          "id": "generated.forgemod:Mantle:0.3.2b@jar",
+          "name": "Mantle",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 202458,
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.7.10/forgemods/required/Mantle-1.7.10-0.3.2b.jar",
+            "MD5": "934fe4ef7a9b971f22b5dd53e57fa976"
+          }
+        },
+        {
+          "id": "generated.forgemod:mowziesmobs:1.2.99@jar",
+          "name": "Mowzie's Mobs",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2546340,
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.7.10/forgemods/optionaloff/MowziesMobs-1.2.99.jar",
+            "MD5": "106b872487345eda950e5869b6afd20f"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -1955,6 +1983,20 @@
             "size": 3675470,
             "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.7.10/forgemods/required/TwilightForest-2.4.3.jar",
             "MD5": "30d428b95b21c42363f370f0a55df952"
+          }
+        },
+        {
+          "id": "com.builtbroken.mc.core:VoltzEngine:1.7.10-1.11.0b491@jar",
+          "name": "VoltzEngine",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2213215,
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.7.10/forgemods/optionaloff/VoltzEngine-1.7.10-1.11.0b491-withCodingLib0.2.8.jar",
+            "MD5": "19eee189a5f39fedd3b21e2b69dfd36e"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         }
       ]
