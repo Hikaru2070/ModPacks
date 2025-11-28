@@ -1658,6 +1658,19 @@
           }
         },
         {
+          "id": "squeek.applecore:applecore:mc1.7.10-3.1.1@jar",
+          "name": "AppleCore",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 106587,
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.7.10/forgemods/optionalon/AppleCore-mc1.7.10-3.1.1.jar",
+            "MD5": "169c63b60ec8a8195733b94cb47ae694"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "generated.forgemod:Avaritia:1.13@jar",
           "name": "Avaritia",
           "type": "ForgeMod",
@@ -1678,6 +1691,26 @@
           }
         },
         {
+          "id": "generated.forgemod:gravitygun:4.0.0-beta@jar",
+          "name": "GravityGun",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 266221,
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.7.10/forgemods/required/GravityGun-4.0.0-beta.jar",
+            "MD5": "ac70a43a82eac9488caecb6a11d5e040"
+          }
+        },
+        {
+          "id": "generated.forgemod:iChunUtil:4.2.3@jar",
+          "name": "IChunUtil",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 213084,
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.7.10/forgemods/required/iChunUtil-4.2.3.jar",
+            "MD5": "9f90848755f2c3002996b86b57dee2f1"
+          }
+        },
+        {
           "id": "generated.forgemod:journeymap:5.2.10@jar",
           "name": "JourneyMap",
           "type": "ForgeMod",
@@ -1688,6 +1721,16 @@
           }
         },
         {
+          "id": "generated.forgemod:Mantle:0.3.2b@jar",
+          "name": "Mantle",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 202458,
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.7.10/forgemods/required/Mantle-1.7.10-0.3.2b.jar",
+            "MD5": "934fe4ef7a9b971f22b5dd53e57fa976"
+          }
+        },
+        {
           "id": "generated.forgemod:MutantCreatures:1.7.10-1.4.9@jar",
           "name": "Mutant Creatures",
           "type": "ForgeMod",
@@ -1695,6 +1738,46 @@
             "size": 1088992,
             "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.7.10/forgemods/required/MutantCreatures-1.7.10-1.4.9.jar",
             "MD5": "d6e5918cf12aae1fa7bd203afef90330"
+          }
+        },
+        {
+          "id": "generated.forgemod:orespawn:1.7.10-20.2@jar",
+          "name": "The OreSpawn Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 17541969,
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.7.10/forgemods/required/orespawn-1.7.10-20.3.jar",
+            "MD5": "13ea53604b1d65d4896be301df7dd5f6"
+          }
+        },
+        {
+          "id": "generated.forgemod:portalgun:4.0.0-beta-6-fix-1@jar",
+          "name": "PortalGun",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 626478,
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.7.10/forgemods/required/PortalGun-4.0.0-beta-6-fix-1.jar",
+            "MD5": "318fb7d5510c6ae47cab5c3534cf7268"
+          }
+        },
+        {
+          "id": "lain.mods.skinport.init.forge.asm:skinport:1.7.10-v10d@jar",
+          "name": "SkinPort",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 183385,
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.7.10/forgemods/required/SkinPort-1.7.10-v10d.jar",
+            "MD5": "ae3e9f60730447689c6f93c1da665995"
+          }
+        },
+        {
+          "id": "generated.forgemod:TConstruct:1.8.8.build991@jar",
+          "name": "Tinkers' Construct",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5606642,
+            "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.7.10/forgemods/required/TConstruct-1.7.10-1.8.8.build991.jar",
+            "MD5": "b655f2f7994d9bd1112c826898390908"
           }
         },
         {
