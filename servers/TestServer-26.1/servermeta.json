@@ -1,0 +1,21 @@
+{
+    "$schema": "https://launcher-assets.mc.gdev.f5.si/ModPacks/schemas/ServerMetaSchema.schema.json",
+    "meta": {
+        "version": "1.0.0",
+        "name": "TestServer (Minecraft 26.1)",
+        "description": "TestServer 26.1",
+        "icon": null,
+        "address": "localhost:25565",
+        "discord": {
+            "shortId": "TestServer",
+            "largeImageText": "TestServer (Minecraft 26.1)",
+            "largeImageKey": "server_logo"
+        },
+        "mainServer": true,
+        "autoconnect": false
+    },
+    "minecraftVersion": "26.1",
+    "modLoader": "fabric",
+    "modloaderVersion": "0.19.3",
+    "untrackedFiles": []
+}
