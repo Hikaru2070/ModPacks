@@ -9,96 +9,6 @@
     },
     "servers": [
         {
-            "id": "GDNMC_Server-1.12.2",
-            "name": "GDNMC_Server (Minecraft 1.12.2)",
-            "description": "GDNMC_Server Running Minecraft 1.12.2 (Forge v14.23.5.2860)",
-            "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
-            "version": "1.0.0",
-            "address": "localhost:25565",
-            "minecraftVersion": "1.20.1",
-            "modLoader": "forge",
-            "modloaderVersion": "",
-            "discord": {
-                "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-                "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-                "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
-            },
-            "mainServer": false,
-            "autoconnect": false,
-            "mods": [
-                {
-                    "id": "me.ichun.mods.gravitygun:gravitygun:7.1.0@jar",
-                    "name": "Gravitygun",
-                    "fileName": "GravityGun-1.12.2-7.1.0.jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 937797,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.12.2/forgemods/optionalon/GravityGun-1.12.2-7.1.0.jar",
-                        "MD5": "ad1c5b5ea0c963eac4e03c3cd1f373cd"
-                    },
-                    "required": {
-                        "value": false
-                    }
-                },
-                {
-                    "id": "local.mods:hbm:1.8.4a-G@jar",
-                    "name": "Hbm",
-                    "fileName": "hbm-1.8.4a-G.jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 75657429,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.12.2/forgemods/optionalon/hbm-1.8.4a-G.jar",
-                        "MD5": "482f5bc0932786e648970da3a01379ef"
-                    },
-                    "required": {
-                        "value": false
-                    }
-                },
-                {
-                    "id": "me.ichun.mods.ichunutil:ichunutil:7.2.2@jar",
-                    "name": "Ichunutil",
-                    "fileName": "iChunUtil-1.12.2-7.2.2.jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 581963,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.12.2/forgemods/optionalon/iChunUtil-1.12.2-7.2.2.jar",
-                        "MD5": "bf13a2044ece544b449c7dc6f8aa40af"
-                    },
-                    "required": {
-                        "value": false
-                    }
-                },
-                {
-                    "id": "local.mods:jei1.12.2:4.16.1.1013.jar@jar",
-                    "name": "Jei 1.12.2",
-                    "fileName": "jei_1.12.2-4.16.1.1013.jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 655406,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.12.2/forgemods/optionalon/jei_1.12.2-4.16.1.1013.jar",
-                        "MD5": "155469b1e6be853ba4b273044bc4a68e"
-                    },
-                    "required": {
-                        "value": false
-                    }
-                },
-                {
-                    "id": "me.ichun.mods.portalgun:portalgun:7.1.0@jar",
-                    "name": "Portalgun",
-                    "fileName": "PortalGun-1.12.2-7.1.0.jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 1717073,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.12.2/forgemods/optionalon/PortalGun-1.12.2-7.1.0.jar",
-                        "MD5": "2219e579132b53719ef21ea78934f4c3"
-                    },
-                    "required": {
-                        "value": false
-                    }
-                }
-            ]
-        },
-        {
             "id": "GDNMC_Server-1.20.1",
             "name": "GDNMC_Server (Minecraft 1.20.1)",
             "description": "GDNMC_Server Running Minecraft 1.20.1 (Forge v47.2.20)",
@@ -117,721 +27,6 @@
             "autoconnect": false,
             "mods": [
                 {
-                    "id": "sculk.of.ixra:ixra:1.4.3.3@jar",
-                    "name": "Arda's Sculks",
-                    "fileName": "Arda's Sculks 1.4.3.3 [FORGE] [1.20.1].jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 13245616,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/Arda's Sculks 1.4.3.3 [FORGE] [1.20.1].jar",
-                        "MD5": "6a96926929f0c844c461298d25f980ac"
-                    }
-                },
-                {
-                    "id": "com.hollingsworth.arsnouveau:arsnouveau:4.12.7@jar",
-                    "name": "Ars Nouveau",
-                    "fileName": "ars_nouveau-1.20.1-4.12.7-all.jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 12430237,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/ars_nouveau-1.20.1-4.12.7-all.jar",
-                        "MD5": "cdd1952cc0031831b37db0f6d6c6ceb1"
-                    }
-                },
-                {
-                    "id": "ati.structures:structures:1.4.0@jar",
-                    "name": "Structory",
-                    "fileName": "ATi Structures V1.4.3 (1.20+).jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 3195854,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/ATi Structures V1.4.3 (1.20+).jar",
-                        "MD5": "155e1184bc52323687e21b50ad2ff5e7"
-                    }
-                },
-                {
-                    "id": "net.mcreator.balloonsbydoriteam:balloonsbydoriteam:1.0.0@jar",
-                    "name": "Balloons by DoriTeam",
-                    "fileName": "balloons_by_doriteam-1.2.0-forge-1.20.1.jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 96753,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/balloons_by_doriteam-1.2.0-forge-1.20.1.jar",
-                        "MD5": "3d61ace2f898e1a94ed1861d7076ee9d"
-                    }
-                },
-                {
-                    "id": "local.mods:bettercombat:1.8.6+1.20.1@jar",
-                    "name": "Better Combat",
-                    "fileName": "bettercombat-forge-1.8.6+1.20.1.jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 1050118,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/bettercombat-forge-1.8.6+1.20.1.jar",
-                        "MD5": "28f4682af86e8bdee7b808fa0adbdf81"
-                    }
-                },
-                {
-                    "id": "net.mcreator.borninchaosv:borninchaosv:1.7.2@jar",
-                    "name": "Born in Chaos ",
-                    "fileName": "born_in_chaos_[Forge]1.20.1_1.7.2.jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 11816101,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/born_in_chaos_[Forge]1.20.1_1.7.2.jar",
-                        "MD5": "53c0274da230c0b83864a8f1043d0a60"
-                    }
-                },
-                {
-                    "id": "net.unusual.blockfactorysbosses:blockfactorysbosses:1.0.9.1@jar",
-                    "name": "Bosses'Rises",
-                    "fileName": "bossesrise-1.20.1-forge-1.0.9.1.jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 21691853,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/bossesrise-1.20.1-forge-1.0.9.1.jar",
-                        "MD5": "5e0f36d582c68f32b961367b19f6adc6"
-                    }
-                },
-                {
-                    "id": "com.song.castle_in_the_sky:castleinthesky:1.20.1@jar",
-                    "name": "Castle in the Sky",
-                    "fileName": "castle_in_the_sky-1.20.1-0.6.0.jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 4181108,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/castle_in_the_sky-1.20.1-0.6.0.jar",
-                        "MD5": "ec0117c5513ccad18a476faa3b8ed156"
-                    }
-                },
-                {
-                    "id": "local.mods:cerbonsapi:1.1.0@jar",
-                    "name": "Cerbons API",
-                    "fileName": "CerbonsAPI-Forge-1.20.1-1.1.0.jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 241148,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/CerbonsAPI-Forge-1.20.1-1.1.0.jar",
-                        "MD5": "a8c22aef55560092ee068e04024da418"
-                    }
-                },
-                {
-                    "id": "com.mrcrayfish.furniture:furniture:7.0.0-pre36@jar",
-                    "name": "MrCrayfish's Furniture Mod",
-                    "fileName": "cfm-forge-1.20.1-7.0.0-pre36.jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 2613393,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/cfm-forge-1.20.1-7.0.0-pre36.jar",
-                        "MD5": "faf78627dad9c9c04e7a4fa8992c54dc"
-                    }
-                },
-                {
-                    "id": "com.mrcrayfish.guns:guns:1.4.18@jar",
-                    "name": "MrCrayfish's Gun Mod",
-                    "fileName": "CGM-Unofficial-1.4.18+Forge+1.20.1.jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 1706529,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/CGM-Unofficial-1.4.18+Forge+1.20.1.jar",
-                        "MD5": "3413330757df08ae0fb43fd97c551d22"
-                    }
-                },
-                {
-                    "id": "com.github.alexthe666.citadel:citadel:2.6.2@jar",
-                    "name": "Citadel",
-                    "fileName": "citadel-2.6.2-1.20.1.jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 3185379,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/citadel-2.6.2-1.20.1.jar",
-                        "MD5": "f027b4f6862b99a1e0516353fb3ef0fc"
-                    }
-                },
-                {
-                    "id": "local.mods:cloth:11.1.136@jar",
-                    "name": "Cloth Config v10 API",
-                    "fileName": "cloth-config-11.1.136-forge.jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 1181413,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/cloth-config-11.1.136-forge.jar",
-                        "MD5": "ca5de5acbcb4a30c010aa6953bd7ef53"
-                    }
-                },
-                {
-                    "id": "local.mods:corgilib:4.0.3.4@jar",
-                    "name": "CorgiLib",
-                    "fileName": "Corgilib-Forge-1.20.1-4.0.3.4.jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 360700,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/Corgilib-Forge-1.20.1-4.0.3.4.jar",
-                        "MD5": "a9ea019fc3f069f5f47f0d8451dac4cd"
-                    }
-                },
-                {
-                    "id": "com.simibubi.create:create:6.0.6@jar",
-                    "name": "Create",
-                    "fileName": "create-1.20.1-6.0.6.jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 18764522,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/create-1.20.1-6.0.6.jar",
-                        "MD5": "0bdb2789d1708a9de227c8ef05a830d9"
-                    }
-                },
-                {
-                    "id": "com.oierbravo.createsifter:createsifter:1.8.6-6.0.6@jar",
-                    "name": "Create Sifter",
-                    "fileName": "createsifter-1.20.1-1.8.6-6.0.6.jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 620951,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/createsifter-1.20.1-1.8.6-6.0.6.jar",
-                        "MD5": "035ae4f82f0d1440c48087e6becb46f7"
-                    }
-                },
-                {
-                    "id": "plus.dragons.createenchantmentindustry:createenchantmentindustry:for-create-6.0.6@jar",
-                    "name": "Create Enchantment Industry",
-                    "fileName": "create_enchantment_industry-1.3.3-for-create-6.0.6.jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 488060,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/create_enchantment_industry-1.3.3-for-create-6.0.6.jar",
-                        "MD5": "6f5f44bb2db0d2916a8ce3e60dae02cf"
-                    }
-                },
-                {
-                    "id": "com.oierbravo.createmechanicalextruder:createmechanicalextruder:1.6.10-6.0.6@jar",
-                    "name": "Create Mechanical Extruder",
-                    "fileName": "create_mecanical_extruder-1.20.1-1.6.11-6.0.6.jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 513561,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/create_mecanical_extruder-1.20.1-1.6.11-6.0.6.jar",
-                        "MD5": "1efc306ab05c8e8aec85c25e75eaf063"
-                    }
-                },
-                {
-                    "id": "top.theillusivec4.curios:curios:5.14.1+1.20.1@jar",
-                    "name": "Curios API",
-                    "fileName": "curios-forge-5.14.1+1.20.1.jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 398066,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/curios-forge-5.14.1+1.20.1.jar",
-                        "MD5": "2fdcc97cbc66c4b2492b407c792e7159"
-                    }
-                },
-                {
-                    "id": "local.mods:dataanchor:1.0.0.19@jar",
-                    "name": "Data Anchor",
-                    "fileName": "Data_Anchor-forge-1.20.1-1.0.0.19.jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 112059,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/Data_Anchor-forge-1.20.1-1.0.0.19.jar",
-                        "MD5": "390bf89fbee5b92a9cf2fd99f4ad103b"
-                    }
-                },
-                {
-                    "id": "net.mcreator.verycaves:verycaves:25.3@jar",
-                    "name": "Deep Waters",
-                    "fileName": "deepwaters 1.20.1 25.3.jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 15150694,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/deepwaters 1.20.1 25.3.jar",
-                        "MD5": "f78e80c4698bdaeabd2d9da37059cb33"
-                    }
-                },
-                {
-                    "id": "com.davigj.drizzleproof.core:core:2.0.3@jar",
-                    "name": "Drizzleproof",
-                    "fileName": "drizzleproof-1.20.1-2.0.3-all.jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 2059812,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/drizzleproof-1.20.1-2.0.3-all.jar",
-                        "MD5": "cac14a8423b4b18d77d12816b71b1116"
-                    }
-                },
-                {
-                    "id": "local.mods:dummmmmmy:2.0.9@jar",
-                    "name": "MmmMmmMmmmmm",
-                    "fileName": "dummmmmmy-1.20-2.0.9.jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 363044,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/dummmmmmy-1.20-2.0.9.jar",
-                        "MD5": "4d3c04e63f560cfb51d100b7a4e78563"
-                    }
-                },
-                {
-                    "id": "com.eeeab:eeeab:0.97@jar",
-                    "name": "EEEAB's Mobs",
-                    "fileName": "eeeabsmobs-1.20.1-0.97-Fix.jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 28960284,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/eeeabsmobs-1.20.1-0.97-Fix.jar",
-                        "MD5": "813f1d151432c585d96f2dcdaf5fcddd"
-                    }
-                },
-                {
-                    "id": "com.zonoikk.end_portal_frame_recipe:endportalframerecipe:1.1.1@jar",
-                    "name": "End Portal Frame Recipe",
-                    "fileName": "endportalframerecipe-1.1.1-1.20.1.jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 14616,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/endportalframerecipe-1.1.1-1.20.1.jar",
-                        "MD5": "541c3cff3ac06ec1f25ac76337649fbf"
-                    }
-                },
-                {
-                    "id": "local.mods:enhanced:5.0.3.1@jar",
-                    "name": "Enhanced Celestials",
-                    "fileName": "Enhanced-Celestials-forge-1.20.1-5.0.3.1.jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 1624784,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/Enhanced-Celestials-forge-1.20.1-5.0.3.1.jar",
-                        "MD5": "d83cea0cac58debe63e17f4dd52c3eee"
-                    }
-                },
-                {
-                    "id": "vectorwing.farmersdelight:farmersdelight:1.2.9@jar",
-                    "name": "Farmer's Delight",
-                    "fileName": "FarmersDelight-1.20.1-1.2.9.jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 2978080,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/FarmersDelight-1.20.1-1.2.9.jar",
-                        "MD5": "71e177a98e0e6f399761ad00e978d177"
-                    }
-                },
-                {
-                    "id": "com.mrcrayfish.framework:framework:0.7.15@jar",
-                    "name": "Framework",
-                    "fileName": "framework-forge-1.20.1-0.7.15.jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 309560,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/framework-forge-1.20.1-0.7.15.jar",
-                        "MD5": "135716c910b1036a6dd2f0fe0bc7b03d"
-                    }
-                },
-                {
-                    "id": "software.bernie:bernie:4.7.4@jar",
-                    "name": "GeckoLib 4",
-                    "fileName": "geckolib-forge-1.20.1-4.7.4.jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 1013210,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.7.4.jar",
-                        "MD5": "13892e4f925b758498e7db2f2235da08"
-                    }
-                },
-                {
-                    "id": "de.maxhenkel.gravestone:gravestone:1.0.33@jar",
-                    "name": "Gravestone Mod",
-                    "fileName": "gravestone-forge-1.20.1-1.0.33.jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 317148,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/gravestone-forge-1.20.1-1.0.33.jar",
-                        "MD5": "238293f49477db2c0664f3cad352dc54"
-                    }
-                },
-                {
-                    "id": "tallestegg.guardvillagers:guardvillagers:1.6.11@jar",
-                    "name": "Guard Villagers",
-                    "fileName": "guardvillagers-1.20.1-1.6.11.jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 199780,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/guardvillagers-1.20.1-1.6.11.jar",
-                        "MD5": "df25eb193865e3d7d63a2a36704e2819"
-                    }
-                },
-                {
-                    "id": "com.sakurafuld:sakurafuld:1201.2.4@jar",
-                    "name": "§6§oHyperlink",
-                    "fileName": "Hyperlink-1201.2.4.jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 1601439,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/Hyperlink-1201.2.4.jar",
-                        "MD5": "83fb95f816543c3498255a3a6a0cb066"
-                    }
-                },
-                {
-                    "id": "com.github.alexthe666.iceandfire:iceandfire:2.1.13-1.20.1@jar",
-                    "name": "Ice and Fire",
-                    "fileName": "iceandfire-2.1.13-1.20.1-beta-5.jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 21854126,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/iceandfire-2.1.13-1.20.1-beta-5.jar",
-                        "MD5": "cadbfab46fa1b02f9a9b09fa5cf86803"
-                    }
-                },
-                {
-                    "id": "local.mods:immersivemelodies:0.6.0+1.20.1@jar",
-                    "name": "Immersive Melodies",
-                    "fileName": "immersive_melodies-0.6.0+1.20.1-forge.jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 5517578,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/immersive_melodies-0.6.0+1.20.1-forge.jar",
-                        "MD5": "9b2903b86fbc565a3996b2d1fd78eb0d"
-                    }
-                },
-                {
-                    "id": "com.frozy.infinity_cave:infinitycave:0.4@jar",
-                    "name": "Infinity Cave",
-                    "fileName": "infinity_cave-0.4-1.20.1-FORGE.jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 2075496,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/infinity_cave-0.4-1.20.1-FORGE.jar",
-                        "MD5": "0a7efcef19109d19ca2690a5601bde49"
-                    }
-                },
-                {
-                    "id": "local.mods:journeymap:5.10.3@jar",
-                    "name": "Journeymap",
-                    "fileName": "journeymap-1.20.1-5.10.3-forge.jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 7160405,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/journeymap-1.20.1-5.10.3-forge.jar",
-                        "MD5": "2181bd6b7161f06726560b9382235611"
-                    }
-                },
-                {
-                    "id": "local.mods:lucky:13.0@jar",
-                    "name": "Lucky Block",
-                    "fileName": "lucky-block-forge-1.20.1-13.0.jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 1989566,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/lucky-block-forge-1.20.1-13.0.jar",
-                        "MD5": "4f0ee5a791cdb770fbc2ac22f98648c5"
-                    }
-                },
-                {
-                    "id": "slimeknights.mantle:mantle:1.11.79@jar",
-                    "name": "Mantle",
-                    "fileName": "Mantle-1.20.1-1.11.79.jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 1480444,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/Mantle-1.20.1-1.11.79.jar",
-                        "MD5": "19cf5725471882f2f65182e70f9c98ef"
-                    }
-                },
-                {
-                    "id": "local.mods:monolib:2.1.0@jar",
-                    "name": "MonoLib",
-                    "fileName": "monolib-forge-1.20.1-2.1.0.jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 173882,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/monolib-forge-1.20.1-2.1.0.jar",
-                        "MD5": "3e3d3f1f66ef9b1bb15f70f51d1c52ac"
-                    }
-                },
-                {
-                    "id": "local.mods:moonlight:2.16.14@jar",
-                    "name": "Moonlight Library",
-                    "fileName": "moonlight-1.20-2.16.14-forge.jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 1333892,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/moonlight-1.20-2.16.14-forge.jar",
-                        "MD5": "db089c7230678965aa22cf7ba0049462"
-                    }
-                },
-                {
-                    "id": "local.mods:mots:1.0.0@jar",
-                    "name": "MythsOfTheSea",
-                    "fileName": "MOTS-Forge-1.20.1-1.1.0.jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 8377262,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/MOTS-Forge-1.20.1-1.1.0.jar",
-                        "MD5": "e8503864b0142fa5ba23dee76ac78490"
-                    }
-                },
-                {
-                    "id": "fuzs.mutantmonsters:mutantmonsters:8.0.7@jar",
-                    "name": "Mutant Monsters",
-                    "fileName": "MutantMonsters-v8.0.7-1.20.1-Forge.jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 1334303,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/MutantMonsters-v8.0.7-1.20.1-Forge.jar",
-                        "MD5": "30d40ea999368084775492b128e0db24"
-                    }
-                },
-                {
-                    "id": "intothedarkness:intothedarkness:16.22.31@jar",
-                    "name": "mysticrift_pharaohs_legacy",
-                    "fileName": "mysticrift_pharaohs_legacy-16.22.31-forge-1.20.1.jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 3202589,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/mysticrift_pharaohs_legacy-16.22.31-forge-1.20.1.jar",
-                        "MD5": "e769df0d3778e2a308cb8c389455fc4b"
-                    }
-                },
-                {
-                    "id": "local.mods:newshieldvariants:2.1.0@jar",
-                    "name": "New Shield Variants",
-                    "fileName": "new_shield_variants-merged-1.20.1-2.1.0.jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 272748,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/new_shield_variants-merged-1.20.1-2.1.0.jar",
-                        "MD5": "daaaae688c6deaa587824bf662c23e31"
-                    }
-                },
-                {
-                    "id": "net.tysontheember.orbitalrailgun:orbitalrailgun:1.1.0@jar",
-                    "name": "Orbital Railgun Forge",
-                    "fileName": "orbital_railgun-1.1.0.jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 798470,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/orbital_railgun-1.1.0.jar",
-                        "MD5": "86301fbf7c4fd1489a62db2637223e97"
-                    }
-                },
-                {
-                    "id": "vazkii.patchouli:patchouli:84.1-FORGE@jar",
-                    "name": "Patchouli",
-                    "fileName": "Patchouli-1.20.1-84.1-FORGE.jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 642711,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/Patchouli-1.20.1-84.1-FORGE.jar",
-                        "MD5": "d5154cacf6859582eebd853bd59f5537"
-                    }
-                },
-                {
-                    "id": "local.mods:player:rc1+1.20@jar",
-                    "name": "Player Animator",
-                    "fileName": "player-animation-lib-forge-1.0.2-rc1+1.20.jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 181437,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
-                        "MD5": "46f8554181d4d240075ea4919d01fd01"
-                    }
-                },
-                {
-                    "id": "com.marvvinekk.picksofpower:picksofpower:1.0@jar",
-                    "name": "Picks of Power",
-                    "fileName": "POP-1.0-1.20.1.jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 458810,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/POP-1.0-1.20.1.jar",
-                        "MD5": "c0efa826af95d56e2a20db88def005e7"
-                    }
-                },
-                {
-                    "id": "fuzs.puzzleslib:puzzleslib:8.1.33@jar",
-                    "name": "Puzzles Lib",
-                    "fileName": "PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 1342987,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
-                        "MD5": "19f23e3040eaadc7c30ae38f5a3dec68"
-                    }
-                },
-                {
-                    "id": "local.mods:quark:4.0-462@jar",
-                    "name": "Quark",
-                    "fileName": "Quark-4.0-462.jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 14935230,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/Quark-4.0-462.jar",
-                        "MD5": "6eef0d0ac52df0c239cb443abc137f3d"
-                    }
-                },
-                {
-                    "id": "committee.nova.mods.avaritia:avaritia:1.3.9.1@jar",
-                    "name": "Re-Avaritia-forged",
-                    "fileName": "Re-Avaritia-fixed-1.20.1-1.3.9.1.jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 3428696,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/Re-Avaritia-fixed-1.20.1-1.3.9.1.jar",
-                        "MD5": "63da2d9f246ec58d1961123108e46f6d"
-                    }
-                },
-                {
-                    "id": "com.alexander.rootoffear:rootoffear:1.0.10@jar",
-                    "name": "The Root of Fear",
-                    "fileName": "rootoffear-1.20.1-1.0.10.jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 3539711,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/rootoffear-1.20.1-1.0.10.jar",
-                        "MD5": "c84b6970f10df4c132ed077de759f43c"
-                    }
-                },
-                {
-                    "id": "com.github.sculkhorde:sculkhorde:0.10.5@jar",
-                    "name": "Sculk Horde",
-                    "fileName": "sculkhorde-1.20.1-0.10.5.jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 13921363,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/sculkhorde-1.20.1-0.10.5.jar",
-                        "MD5": "23c866f8d039ebf997e237e61899ea2a"
-                    }
-                },
-                {
-                    "id": "local.mods:slashblade:0.1.2@jar",
-                    "name": "Slash Blade",
-                    "fileName": "SlashBlade-1.20.1-0.1.2.jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 3210580,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/SlashBlade-1.20.1-0.1.2.jar",
-                        "MD5": "3318d7730c88d3b1bac0b53465a4c1a8"
-                    }
-                },
-                {
-                    "id": "ladysnake.snowmercy:snowmercy:1.0.0@jar",
-                    "name": "Snow Mercy",
-                    "fileName": "SnowMercy-Forge-1.0.0.jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 1325855,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/SnowMercy-Forge-1.0.0.jar",
-                        "MD5": "6aa416596c520baf7cc812b8fff2ee9e"
-                    }
-                },
-                {
-                    "id": "com.tacz.guns:guns:hotfix@jar",
-                    "name": "Timeless & Classics Guns: Zero",
-                    "fileName": "tacz-1.20.1-1.1.6-hotfix.jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 47826468,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/tacz-1.20.1-1.1.6-hotfix.jar",
-                        "MD5": "51636447584a75f8d2db2fb930d110b1"
-                    }
-                },
-                {
-                    "id": "slimeknights.tconstruct:tconstruct:3.10.2.92@jar",
-                    "name": "Tinkers' Construct",
-                    "fileName": "TConstruct-1.20.1-3.10.2.92.jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 19792115,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/TConstruct-1.20.1-3.10.2.92.jar",
-                        "MD5": "f509c2dc7895504a1ccd7860a2fb7a47"
-                    }
-                },
-                {
-                    "id": "quek.undergarden:undergarden:0.8.14@jar",
-                    "name": "The Undergarden",
-                    "fileName": "The_Undergarden-1.20.1-0.8.14.jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 45084263,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/The_Undergarden-1.20.1-0.8.14.jar",
-                        "MD5": "a7eed1f6a3dbef9f70a3e1ca21514cb5"
-                    }
-                },
-                {
-                    "id": "net.mcreator.threateninglymobs:threateninglymobs:1.0.9.7@jar",
-                    "name": "Threateningly mobs",
-                    "fileName": "threateningly_mobs-1.0.9.7-forge-1.20.1.jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 7601621,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/threateningly_mobs-1.0.9.7-forge-1.20.1.jar",
-                        "MD5": "3c5d9c5c22e8d1f012b35c92339e0754"
-                    }
-                },
-                {
-                    "id": "com.github.tartaricacid:tartaricacid:forge+mc1.20.1@jar",
-                    "name": "Touhou Little Maid",
-                    "fileName": "touhoulittlemaid-1.4.0-forge+mc1.20.1.jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 20883938,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/touhoulittlemaid-1.4.0-forge+mc1.20.1.jar",
-                        "MD5": "40a85ed2766f378bf56438a17192e2ea"
-                    }
-                },
-                {
-                    "id": "net.mcreator.triplecakemod:triplecakemod:1.0@jar",
-                    "name": "Triple Cake  MOD",
-                    "fileName": "Triple Cake Mod - 1.20.1.jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 75980,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/Triple Cake Mod - 1.20.1.jar",
-                        "MD5": "550c90bee7a9b3580b27adc56a774d95"
-                    }
-                },
-                {
-                    "id": "twilightforest:twilightforest:4.3.2508@jar",
-                    "name": "The Twilight Forest",
-                    "fileName": "twilightforest-1.20.1-4.3.2508-universal.jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 23332091,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/twilightforest-1.20.1-4.3.2508-universal.jar",
-                        "MD5": "0e1ca36ec2ca7e35059dea1600aa31ee"
-                    }
-                },
-                {
-                    "id": "dev.xkmc:xkmc:2.6.1@jar",
-                    "name": "Youkai's Homecoming",
-                    "fileName": "youkaishomecoming-2.6.1.jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 6044519,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/youkaishomecoming-2.6.1.jar",
-                        "MD5": "6e699fd31cfb2926f7ff479384b094af"
-                    }
-                },
-                {
-                    "id": "local.mods:zeta:30@jar",
-                    "name": "Zeta",
-                    "fileName": "Zeta-1.0-30.jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 1006574,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/Zeta-1.0-30.jar",
-                        "MD5": "9fa915bd7e2c64217223b6a98ab5dc47"
-                    }
-                },
-                {
-                    "id": "net.minecraft.storagebox:storagebox:3.2.4@jar",
-                    "name": "Storage Box",
-                    "fileName": "[1.20.1][forge47.1.0]mod_StorageBox_v3.2.5.jar",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 100240,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/required/[1.20.1][forge47.1.0]mod_StorageBox_v3.2.5.jar",
-                        "MD5": "fb5bf328b5153b451c94063092766bc0"
-                    }
-                },
-                {
                     "id": "squeek.appleskin:appleskin:2.5.1+mc1.20.1@jar",
                     "name": "AppleSkin",
                     "fileName": "appleskin-forge-mc1.20.1-2.5.1.jar",
@@ -846,6 +41,496 @@
                     }
                 },
                 {
+                    "id": "sculk.of.ixra:ixra:1.4.3.3@jar",
+                    "name": "Arda's Sculks",
+                    "fileName": "Arda's Sculks 1.4.3.3 [FORGE] [1.20.1].jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 13245616,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionalon/Arda's Sculks 1.4.3.3 [FORGE] [1.20.1].jar",
+                        "MD5": "6a96926929f0c844c461298d25f980ac"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "com.hollingsworth.arsnouveau:arsnouveau:4.12.7@jar",
+                    "name": "Ars Nouveau",
+                    "fileName": "ars_nouveau-1.20.1-4.12.7-all.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 12430237,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionalon/ars_nouveau-1.20.1-4.12.7-all.jar",
+                        "MD5": "cdd1952cc0031831b37db0f6d6c6ceb1"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "ati.structures:structures:1.4.0@jar",
+                    "name": "Structory",
+                    "fileName": "ATi Structures V1.4.3 (1.20+).jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 3195854,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionalon/ATi Structures V1.4.3 (1.20+).jar",
+                        "MD5": "155e1184bc52323687e21b50ad2ff5e7"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "net.mcreator.balloonsbydoriteam:balloonsbydoriteam:1.0.0@jar",
+                    "name": "Balloons by DoriTeam",
+                    "fileName": "balloons_by_doriteam-1.2.0-forge-1.20.1.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 96753,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionalon/balloons_by_doriteam-1.2.0-forge-1.20.1.jar",
+                        "MD5": "3d61ace2f898e1a94ed1861d7076ee9d"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "local.mods:bettercombat:1.8.6+1.20.1@jar",
+                    "name": "Better Combat",
+                    "fileName": "bettercombat-forge-1.8.6+1.20.1.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1050118,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionalon/bettercombat-forge-1.8.6+1.20.1.jar",
+                        "MD5": "28f4682af86e8bdee7b808fa0adbdf81"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "net.mcreator.borninchaosv:borninchaosv:1.7.2@jar",
+                    "name": "Born in Chaos ",
+                    "fileName": "born_in_chaos_[Forge]1.20.1_1.7.2.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 11816101,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionalon/born_in_chaos_[Forge]1.20.1_1.7.2.jar",
+                        "MD5": "53c0274da230c0b83864a8f1043d0a60"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "net.unusual.blockfactorysbosses:blockfactorysbosses:1.0.9.1@jar",
+                    "name": "Bosses'Rises",
+                    "fileName": "bossesrise-1.20.1-forge-1.0.9.1.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 21691853,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionalon/bossesrise-1.20.1-forge-1.0.9.1.jar",
+                        "MD5": "5e0f36d582c68f32b961367b19f6adc6"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "com.song.castle_in_the_sky:castleinthesky:1.20.1@jar",
+                    "name": "Castle in the Sky",
+                    "fileName": "castle_in_the_sky-1.20.1-0.6.0.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 4181108,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionalon/castle_in_the_sky-1.20.1-0.6.0.jar",
+                        "MD5": "ec0117c5513ccad18a476faa3b8ed156"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "local.mods:cerbonsapi:1.1.0@jar",
+                    "name": "Cerbons API",
+                    "fileName": "CerbonsAPI-Forge-1.20.1-1.1.0.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 241148,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionalon/CerbonsAPI-Forge-1.20.1-1.1.0.jar",
+                        "MD5": "a8c22aef55560092ee068e04024da418"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "com.mrcrayfish.furniture:furniture:7.0.0-pre36@jar",
+                    "name": "MrCrayfish's Furniture Mod",
+                    "fileName": "cfm-forge-1.20.1-7.0.0-pre36.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 2613393,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionalon/cfm-forge-1.20.1-7.0.0-pre36.jar",
+                        "MD5": "faf78627dad9c9c04e7a4fa8992c54dc"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "com.mrcrayfish.guns:guns:1.4.18@jar",
+                    "name": "MrCrayfish's Gun Mod",
+                    "fileName": "CGM-Unofficial-1.4.18+Forge+1.20.1.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1706529,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionalon/CGM-Unofficial-1.4.18+Forge+1.20.1.jar",
+                        "MD5": "3413330757df08ae0fb43fd97c551d22"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "com.github.alexthe666.citadel:citadel:2.6.2@jar",
+                    "name": "Citadel",
+                    "fileName": "citadel-2.6.2-1.20.1.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 3185379,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionalon/citadel-2.6.2-1.20.1.jar",
+                        "MD5": "f027b4f6862b99a1e0516353fb3ef0fc"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "local.mods:cloth:11.1.136@jar",
+                    "name": "Cloth Config v10 API",
+                    "fileName": "cloth-config-11.1.136-forge.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1181413,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionalon/cloth-config-11.1.136-forge.jar",
+                        "MD5": "ca5de5acbcb4a30c010aa6953bd7ef53"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "local.mods:corgilib:4.0.3.4@jar",
+                    "name": "CorgiLib",
+                    "fileName": "Corgilib-Forge-1.20.1-4.0.3.4.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 360700,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionalon/Corgilib-Forge-1.20.1-4.0.3.4.jar",
+                        "MD5": "a9ea019fc3f069f5f47f0d8451dac4cd"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "com.simibubi.create:create:6.0.6@jar",
+                    "name": "Create",
+                    "fileName": "create-1.20.1-6.0.6.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 18764522,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionalon/create-1.20.1-6.0.6.jar",
+                        "MD5": "0bdb2789d1708a9de227c8ef05a830d9"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "com.oierbravo.createsifter:createsifter:1.8.6-6.0.6@jar",
+                    "name": "Create Sifter",
+                    "fileName": "createsifter-1.20.1-1.8.6-6.0.6.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 620951,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionalon/createsifter-1.20.1-1.8.6-6.0.6.jar",
+                        "MD5": "035ae4f82f0d1440c48087e6becb46f7"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "plus.dragons.createenchantmentindustry:createenchantmentindustry:for-create-6.0.6@jar",
+                    "name": "Create Enchantment Industry",
+                    "fileName": "create_enchantment_industry-1.3.3-for-create-6.0.6.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 488060,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionalon/create_enchantment_industry-1.3.3-for-create-6.0.6.jar",
+                        "MD5": "6f5f44bb2db0d2916a8ce3e60dae02cf"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "com.oierbravo.createmechanicalextruder:createmechanicalextruder:1.6.10-6.0.6@jar",
+                    "name": "Create Mechanical Extruder",
+                    "fileName": "create_mecanical_extruder-1.20.1-1.6.11-6.0.6.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 513561,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionalon/create_mecanical_extruder-1.20.1-1.6.11-6.0.6.jar",
+                        "MD5": "1efc306ab05c8e8aec85c25e75eaf063"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "top.theillusivec4.curios:curios:5.14.1+1.20.1@jar",
+                    "name": "Curios API",
+                    "fileName": "curios-forge-5.14.1+1.20.1.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 398066,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionalon/curios-forge-5.14.1+1.20.1.jar",
+                        "MD5": "2fdcc97cbc66c4b2492b407c792e7159"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "local.mods:dataanchor:1.0.0.19@jar",
+                    "name": "Data Anchor",
+                    "fileName": "Data_Anchor-forge-1.20.1-1.0.0.19.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 112059,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionalon/Data_Anchor-forge-1.20.1-1.0.0.19.jar",
+                        "MD5": "390bf89fbee5b92a9cf2fd99f4ad103b"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "net.mcreator.verycaves:verycaves:25.3@jar",
+                    "name": "Deep Waters",
+                    "fileName": "deepwaters 1.20.1 25.3.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 15150694,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionalon/deepwaters 1.20.1 25.3.jar",
+                        "MD5": "f78e80c4698bdaeabd2d9da37059cb33"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "com.davigj.drizzleproof.core:core:2.0.3@jar",
+                    "name": "Drizzleproof",
+                    "fileName": "drizzleproof-1.20.1-2.0.3-all.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 2059812,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionalon/drizzleproof-1.20.1-2.0.3-all.jar",
+                        "MD5": "cac14a8423b4b18d77d12816b71b1116"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "local.mods:dummmmmmy:2.0.9@jar",
+                    "name": "MmmMmmMmmmmm",
+                    "fileName": "dummmmmmy-1.20-2.0.9.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 363044,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionalon/dummmmmmy-1.20-2.0.9.jar",
+                        "MD5": "4d3c04e63f560cfb51d100b7a4e78563"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "com.eeeab:eeeab:0.97@jar",
+                    "name": "EEEAB's Mobs",
+                    "fileName": "eeeabsmobs-1.20.1-0.97-Fix.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 28960284,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionalon/eeeabsmobs-1.20.1-0.97-Fix.jar",
+                        "MD5": "813f1d151432c585d96f2dcdaf5fcddd"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "com.zonoikk.end_portal_frame_recipe:endportalframerecipe:1.1.1@jar",
+                    "name": "End Portal Frame Recipe",
+                    "fileName": "endportalframerecipe-1.1.1-1.20.1.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 14616,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionalon/endportalframerecipe-1.1.1-1.20.1.jar",
+                        "MD5": "541c3cff3ac06ec1f25ac76337649fbf"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "local.mods:enhanced:5.0.3.1@jar",
+                    "name": "Enhanced Celestials",
+                    "fileName": "Enhanced-Celestials-forge-1.20.1-5.0.3.1.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1624784,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionalon/Enhanced-Celestials-forge-1.20.1-5.0.3.1.jar",
+                        "MD5": "d83cea0cac58debe63e17f4dd52c3eee"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "vectorwing.farmersdelight:farmersdelight:1.2.9@jar",
+                    "name": "Farmer's Delight",
+                    "fileName": "FarmersDelight-1.20.1-1.2.9.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 2978080,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionalon/FarmersDelight-1.20.1-1.2.9.jar",
+                        "MD5": "71e177a98e0e6f399761ad00e978d177"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "com.mrcrayfish.framework:framework:0.7.15@jar",
+                    "name": "Framework",
+                    "fileName": "framework-forge-1.20.1-0.7.15.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 309560,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionalon/framework-forge-1.20.1-0.7.15.jar",
+                        "MD5": "135716c910b1036a6dd2f0fe0bc7b03d"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "software.bernie:bernie:4.7.4@jar",
+                    "name": "GeckoLib 4",
+                    "fileName": "geckolib-forge-1.20.1-4.7.4.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1013210,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionalon/geckolib-forge-1.20.1-4.7.4.jar",
+                        "MD5": "13892e4f925b758498e7db2f2235da08"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "de.maxhenkel.gravestone:gravestone:1.0.33@jar",
+                    "name": "Gravestone Mod",
+                    "fileName": "gravestone-forge-1.20.1-1.0.33.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 317148,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionalon/gravestone-forge-1.20.1-1.0.33.jar",
+                        "MD5": "238293f49477db2c0664f3cad352dc54"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "tallestegg.guardvillagers:guardvillagers:1.6.11@jar",
+                    "name": "Guard Villagers",
+                    "fileName": "guardvillagers-1.20.1-1.6.11.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 199780,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionalon/guardvillagers-1.20.1-1.6.11.jar",
+                        "MD5": "df25eb193865e3d7d63a2a36704e2819"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "com.sakurafuld:sakurafuld:1201.2.4@jar",
+                    "name": "§6§oHyperlink",
+                    "fileName": "Hyperlink-1201.2.4.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1601439,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionalon/Hyperlink-1201.2.4.jar",
+                        "MD5": "83fb95f816543c3498255a3a6a0cb066"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "com.github.alexthe666.iceandfire:iceandfire:2.1.13-1.20.1@jar",
+                    "name": "Ice and Fire",
+                    "fileName": "iceandfire-2.1.13-1.20.1-beta-5.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 21854126,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionalon/iceandfire-2.1.13-1.20.1-beta-5.jar",
+                        "MD5": "cadbfab46fa1b02f9a9b09fa5cf86803"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "local.mods:immersivemelodies:0.6.0+1.20.1@jar",
+                    "name": "Immersive Melodies",
+                    "fileName": "immersive_melodies-0.6.0+1.20.1-forge.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 5517578,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionalon/immersive_melodies-0.6.0+1.20.1-forge.jar",
+                        "MD5": "9b2903b86fbc565a3996b2d1fd78eb0d"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "com.frozy.infinity_cave:infinitycave:0.4@jar",
+                    "name": "Infinity Cave",
+                    "fileName": "infinity_cave-0.4-1.20.1-FORGE.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 2075496,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionalon/infinity_cave-0.4-1.20.1-FORGE.jar",
+                        "MD5": "0a7efcef19109d19ca2690a5601bde49"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
                     "id": "mezz.jei:jei:15.20.0.112@jar",
                     "name": "Just Enough Items",
                     "fileName": "jei-1.20.1-forge-15.20.0.112.jar",
@@ -854,6 +539,426 @@
                         "size": 1385600,
                         "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionalon/jei-1.20.1-forge-15.20.0.112.jar",
                         "MD5": "c899d5b549ace1e9fa46700c778c3809"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "local.mods:journeymap:5.10.3@jar",
+                    "name": "Journeymap",
+                    "fileName": "journeymap-1.20.1-5.10.3-forge.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 7160405,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionalon/journeymap-1.20.1-5.10.3-forge.jar",
+                        "MD5": "2181bd6b7161f06726560b9382235611"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "local.mods:lucky:13.0@jar",
+                    "name": "Lucky Block",
+                    "fileName": "lucky-block-forge-1.20.1-13.0.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1989566,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionalon/lucky-block-forge-1.20.1-13.0.jar",
+                        "MD5": "4f0ee5a791cdb770fbc2ac22f98648c5"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "slimeknights.mantle:mantle:1.11.79@jar",
+                    "name": "Mantle",
+                    "fileName": "Mantle-1.20.1-1.11.79.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1480444,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionalon/Mantle-1.20.1-1.11.79.jar",
+                        "MD5": "19cf5725471882f2f65182e70f9c98ef"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "local.mods:monolib:2.1.0@jar",
+                    "name": "MonoLib",
+                    "fileName": "monolib-forge-1.20.1-2.1.0.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 173882,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionalon/monolib-forge-1.20.1-2.1.0.jar",
+                        "MD5": "3e3d3f1f66ef9b1bb15f70f51d1c52ac"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "local.mods:moonlight:2.16.14@jar",
+                    "name": "Moonlight Library",
+                    "fileName": "moonlight-1.20-2.16.14-forge.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1333892,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionalon/moonlight-1.20-2.16.14-forge.jar",
+                        "MD5": "db089c7230678965aa22cf7ba0049462"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "local.mods:mots:1.0.0@jar",
+                    "name": "MythsOfTheSea",
+                    "fileName": "MOTS-Forge-1.20.1-1.1.0.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 8377262,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionalon/MOTS-Forge-1.20.1-1.1.0.jar",
+                        "MD5": "e8503864b0142fa5ba23dee76ac78490"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "fuzs.mutantmonsters:mutantmonsters:8.0.7@jar",
+                    "name": "Mutant Monsters",
+                    "fileName": "MutantMonsters-v8.0.7-1.20.1-Forge.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1334303,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionalon/MutantMonsters-v8.0.7-1.20.1-Forge.jar",
+                        "MD5": "30d40ea999368084775492b128e0db24"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "intothedarkness:intothedarkness:16.22.31@jar",
+                    "name": "mysticrift_pharaohs_legacy",
+                    "fileName": "mysticrift_pharaohs_legacy-16.22.31-forge-1.20.1.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 3202589,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionalon/mysticrift_pharaohs_legacy-16.22.31-forge-1.20.1.jar",
+                        "MD5": "e769df0d3778e2a308cb8c389455fc4b"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "local.mods:newshieldvariants:2.1.0@jar",
+                    "name": "New Shield Variants",
+                    "fileName": "new_shield_variants-merged-1.20.1-2.1.0.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 272748,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionalon/new_shield_variants-merged-1.20.1-2.1.0.jar",
+                        "MD5": "daaaae688c6deaa587824bf662c23e31"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "net.tysontheember.orbitalrailgun:orbitalrailgun:1.1.0@jar",
+                    "name": "Orbital Railgun Forge",
+                    "fileName": "orbital_railgun-1.1.0.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 798470,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionalon/orbital_railgun-1.1.0.jar",
+                        "MD5": "86301fbf7c4fd1489a62db2637223e97"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "vazkii.patchouli:patchouli:84.1-FORGE@jar",
+                    "name": "Patchouli",
+                    "fileName": "Patchouli-1.20.1-84.1-FORGE.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 642711,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionalon/Patchouli-1.20.1-84.1-FORGE.jar",
+                        "MD5": "d5154cacf6859582eebd853bd59f5537"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "local.mods:player:rc1+1.20@jar",
+                    "name": "Player Animator",
+                    "fileName": "player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 181437,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionalon/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+                        "MD5": "46f8554181d4d240075ea4919d01fd01"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "com.marvvinekk.picksofpower:picksofpower:1.0@jar",
+                    "name": "Picks of Power",
+                    "fileName": "POP-1.0-1.20.1.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 458810,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionalon/POP-1.0-1.20.1.jar",
+                        "MD5": "c0efa826af95d56e2a20db88def005e7"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "fuzs.puzzleslib:puzzleslib:8.1.33@jar",
+                    "name": "Puzzles Lib",
+                    "fileName": "PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1342987,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionalon/PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
+                        "MD5": "19f23e3040eaadc7c30ae38f5a3dec68"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "local.mods:quark:4.0-462@jar",
+                    "name": "Quark",
+                    "fileName": "Quark-4.0-462.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 14935230,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionalon/Quark-4.0-462.jar",
+                        "MD5": "6eef0d0ac52df0c239cb443abc137f3d"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "committee.nova.mods.avaritia:avaritia:1.3.9.1@jar",
+                    "name": "Re-Avaritia-forged",
+                    "fileName": "Re-Avaritia-fixed-1.20.1-1.3.9.1.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 3428696,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionalon/Re-Avaritia-fixed-1.20.1-1.3.9.1.jar",
+                        "MD5": "63da2d9f246ec58d1961123108e46f6d"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "com.alexander.rootoffear:rootoffear:1.0.10@jar",
+                    "name": "The Root of Fear",
+                    "fileName": "rootoffear-1.20.1-1.0.10.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 3539711,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionalon/rootoffear-1.20.1-1.0.10.jar",
+                        "MD5": "c84b6970f10df4c132ed077de759f43c"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "com.github.sculkhorde:sculkhorde:0.10.5@jar",
+                    "name": "Sculk Horde",
+                    "fileName": "sculkhorde-1.20.1-0.10.5.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 13921363,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionalon/sculkhorde-1.20.1-0.10.5.jar",
+                        "MD5": "23c866f8d039ebf997e237e61899ea2a"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "local.mods:slashblade:0.1.2@jar",
+                    "name": "Slash Blade",
+                    "fileName": "SlashBlade-1.20.1-0.1.2.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 3210580,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionalon/SlashBlade-1.20.1-0.1.2.jar",
+                        "MD5": "3318d7730c88d3b1bac0b53465a4c1a8"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "ladysnake.snowmercy:snowmercy:1.0.0@jar",
+                    "name": "Snow Mercy",
+                    "fileName": "SnowMercy-Forge-1.0.0.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1325855,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionalon/SnowMercy-Forge-1.0.0.jar",
+                        "MD5": "6aa416596c520baf7cc812b8fff2ee9e"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "com.tacz.guns:guns:1.1.7@jar",
+                    "name": "Timeless & Classics Guns: Zero",
+                    "fileName": "tacz-1.20.1-1.1.7-release.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 52403127,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionalon/tacz-1.20.1-1.1.7-release.jar",
+                        "MD5": "27696ec987eefbec8e7ba6596e418b35"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "slimeknights.tconstruct:tconstruct:3.10.2.92@jar",
+                    "name": "Tinkers' Construct",
+                    "fileName": "TConstruct-1.20.1-3.10.2.92.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 19792115,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionalon/TConstruct-1.20.1-3.10.2.92.jar",
+                        "MD5": "f509c2dc7895504a1ccd7860a2fb7a47"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "quek.undergarden:undergarden:0.8.14@jar",
+                    "name": "The Undergarden",
+                    "fileName": "The_Undergarden-1.20.1-0.8.14.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 45084263,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionalon/The_Undergarden-1.20.1-0.8.14.jar",
+                        "MD5": "a7eed1f6a3dbef9f70a3e1ca21514cb5"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "net.mcreator.threateninglymobs:threateninglymobs:1.0.9.7@jar",
+                    "name": "Threateningly mobs",
+                    "fileName": "threateningly_mobs-1.0.9.7-forge-1.20.1.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 7601621,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionalon/threateningly_mobs-1.0.9.7-forge-1.20.1.jar",
+                        "MD5": "3c5d9c5c22e8d1f012b35c92339e0754"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "com.github.tartaricacid:tartaricacid:forge+mc1.20.1@jar",
+                    "name": "Touhou Little Maid",
+                    "fileName": "touhoulittlemaid-1.4.0-forge+mc1.20.1.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 20883938,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionalon/touhoulittlemaid-1.4.0-forge+mc1.20.1.jar",
+                        "MD5": "40a85ed2766f378bf56438a17192e2ea"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "net.mcreator.triplecakemod:triplecakemod:1.0@jar",
+                    "name": "Triple Cake  MOD",
+                    "fileName": "Triple Cake Mod - 1.20.1.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 75980,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionalon/Triple Cake Mod - 1.20.1.jar",
+                        "MD5": "550c90bee7a9b3580b27adc56a774d95"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "twilightforest:twilightforest:4.3.2508@jar",
+                    "name": "The Twilight Forest",
+                    "fileName": "twilightforest-1.20.1-4.3.2508-universal.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 23332091,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionalon/twilightforest-1.20.1-4.3.2508-universal.jar",
+                        "MD5": "0e1ca36ec2ca7e35059dea1600aa31ee"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "dev.xkmc:xkmc:2.6.1@jar",
+                    "name": "Youkai's Homecoming",
+                    "fileName": "youkaishomecoming-2.6.1.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 6044519,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionalon/youkaishomecoming-2.6.1.jar",
+                        "MD5": "6e699fd31cfb2926f7ff479384b094af"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "local.mods:zeta:30@jar",
+                    "name": "Zeta",
+                    "fileName": "Zeta-1.0-30.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1006574,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionalon/Zeta-1.0-30.jar",
+                        "MD5": "9fa915bd7e2c64217223b6a98ab5dc47"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "net.minecraft.storagebox:storagebox:3.2.4@jar",
+                    "name": "Storage Box",
+                    "fileName": "[1.20.1][forge47.1.0]mod_StorageBox_v3.2.5.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 100240,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.20.1/forgemods/optionalon/[1.20.1][forge47.1.0]mod_StorageBox_v3.2.5.jar",
+                        "MD5": "fb5bf328b5153b451c94063092766bc0"
                     },
                     "required": {
                         "value": false
@@ -903,6 +1008,20 @@
                         "size": 21575745,
                         "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.7.10/forgemods/optionalon/1.7.10_AM2-1.4.0.009.jar",
                         "MD5": "1e4b8c84cda22fd093c5e921374578e9"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "local.mods:aether:v1.1.2.5@jar",
+                    "name": "Aether",
+                    "fileName": "aether-1.7.10-v1.1.2.5.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 14335798,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.7.10/forgemods/optionalon/aether-1.7.10-v1.1.2.5.jar",
+                        "MD5": "b7143188aef1553ddd09ba8984548bf2"
                     },
                     "required": {
                         "value": false
@@ -993,6 +1112,20 @@
                     }
                 },
                 {
+                    "id": "cpw.mods.ironchest:ironchest:6.0.62.742-universal@jar",
+                    "name": "Ironchest",
+                    "fileName": "ironchest-1.7.10-6.0.62.742-universal.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 158104,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.7.10/forgemods/optionalon/ironchest-1.7.10-6.0.62.742-universal.jar",
+                        "MD5": "48d942594459c437ce8e8648ca42a7b9"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
                     "id": "local.mods:journeymap:5.2.10-unlimited@jar",
                     "name": "Journeymap",
                     "fileName": "journeymap-1.7.10-5.2.10-unlimited.jar",
@@ -1007,6 +1140,20 @@
                     }
                 },
                 {
+                    "id": "mod.lucky:lucky:1.0@jar",
+                    "name": "Lucky",
+                    "fileName": "lucky-block-forge-1.7.10-1.0.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 83858,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.7.10/forgemods/optionalon/lucky-block-forge-1.7.10-1.0.jar",
+                        "MD5": "7b22306fce2ced077cedffafad5f1355"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
                     "id": "mantle:mantle:0.3.2b@jar",
                     "name": "Mantle",
                     "fileName": "Mantle-1.7.10-0.3.2b.jar",
@@ -1015,6 +1162,34 @@
                         "size": 202458,
                         "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.7.10/forgemods/optionalon/Mantle-1.7.10-0.3.2b.jar",
                         "MD5": "934fe4ef7a9b971f22b5dd53e57fa976"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "morph:morph:0.9.3.jar@jar",
+                    "name": "Morph",
+                    "fileName": "Morph-Beta-0.9.3.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1042450,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.7.10/forgemods/optionalon/Morph-Beta-0.9.3.jar",
+                        "MD5": "134e1cc870742392bb809cb68f82c6b8"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "com.mrcrayfish.furniture:furniture:1.0.0@jar",
+                    "name": "Mrcrayfishfurnituremodv3.4.7(1.7.10)",
+                    "fileName": "MrCrayfishFurnitureModv3.4.7(1.7.10).jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1728686,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.7.10/forgemods/optionalon/MrCrayfishFurnitureModv3.4.7(1.7.10).jar",
+                        "MD5": "86926babe733787348533cc1db612584"
                     },
                     "required": {
                         "value": false
@@ -1077,6 +1252,48 @@
                     }
                 },
                 {
+                    "id": "mods.flammpfeil.slashblade:slashblade:1.0.0@jar",
+                    "name": "Slashblade",
+                    "fileName": "SlashBlade-mc1.7.10-r88.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 3217649,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.7.10/forgemods/optionalon/SlashBlade-mc1.7.10-r88.jar",
+                        "MD5": "39a5c8ecc1ef778c0a1d033385ca5f4a"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "com.jaquadro.minecraft.storagedrawers:storagedrawers:1.10.9@jar",
+                    "name": "Storagedrawers",
+                    "fileName": "StorageDrawers-1.7.10-1.10.9.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 589456,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.7.10/forgemods/optionalon/StorageDrawers-1.7.10-1.10.9.jar",
+                        "MD5": "6fe615f1a9ff94dfe1b0641f1fc9fd18"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
+                    "id": "us.ichun.mods.tabula:tabula:4.1.1.jar@jar",
+                    "name": "Tabula",
+                    "fileName": "Tabula-4.1.1.jar",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 380696,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-1.7.10/forgemods/optionalon/Tabula-4.1.1.jar",
+                        "MD5": "1bc694134b7aba5d5dc5496aebb24ab9"
+                    },
+                    "required": {
+                        "value": false
+                    }
+                },
+                {
                     "id": "tconstruct:tconstruct:1.8.8.build991@jar",
                     "name": "Tconstruct",
                     "fileName": "TConstruct-1.7.10-1.8.8.build991.jar",
@@ -1102,6 +1319,37 @@
                     },
                     "required": {
                         "value": false
+                    }
+                }
+            ]
+        },
+        {
+            "id": "GDNMC_Server-26.2",
+            "name": "GDNMC_Server (Minecraft 26.2)",
+            "description": "Test 26.2",
+            "icon": null,
+            "version": "1.0.0",
+            "address": "",
+            "minecraftVersion": "26.2",
+            "modLoader": "fabric",
+            "modloaderVersion": "",
+            "discord": {
+                "shortId": "GDNMC_Server",
+                "largeImageText": "GDNMC_Server (Minecraft 26.2)",
+                "largeImageKey": "server_logo"
+            },
+            "mainServer": true,
+            "autoconnect": true,
+            "mods": [
+                {
+                    "id": "local.mods:fabric:0.152.1+26.2@jar",
+                    "name": "Fabric API",
+                    "fileName": "fabric-api-0.152.1+26.2.jar",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 2501570,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-26.2/mods/required/fabric-api-0.152.1+26.2.jar",
+                        "MD5": "a3e08a838d65822920dcb0aee6dcd6a9"
                     }
                 }
             ]

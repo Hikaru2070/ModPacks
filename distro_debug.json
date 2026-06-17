@@ -15,55 +15,26 @@
             "icon": null,
             "version": "1.0.0",
             "address": "localhost:25565",
-            "minecraftVersion": "26.1",
+            "minecraftVersion": "26.2",
             "modLoader": "fabric",
             "modloaderVersion": "0.19.3",
             "discord": {
                 "shortId": "TestServer",
-                "largeImageText": "TestServer (Minecraft 26.1)",
+                "largeImageText": "TestServer (Minecraft 26.2)",
                 "largeImageKey": "server_logo"
             },
             "mainServer": true,
             "autoconnect": false,
             "mods": [
                 {
-                    "id": "local.mods:fabric:0.151.0+26.1.2@jar",
+                    "id": "local.mods:fabric:0.152.1+26.2@jar",
                     "name": "Fabric API",
-                    "fileName": "fabric-api-0.151.0+26.1.2.jar",
+                    "fileName": "fabric-api-0.152.1+26.2.jar",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 2498064,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/TestServer-26.1/mods/required/fabric-api-0.151.0+26.1.2.jar",
-                        "MD5": "f0375f3f40da9ad359cb72eb2304d41e"
-                    }
-                },
-                {
-                    "id": "com.terraformersmc.modmenu:modmenu:18.0.0-beta.1@jar",
-                    "name": "Mod Menu",
-                    "fileName": "modmenu-18.0.0-beta.1.jar",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 855297,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/TestServer-26.1/mods/optionalon/modmenu-18.0.0-beta.1.jar",
-                        "MD5": "29f02920e93a9b122a2f8addd81aa784"
-                    },
-                    "required": {
-                        "value": false
-                    }
-                },
-                {
-                    "id": "net.caffeinemc.mods.sodium:sodium:0.8.9+mc26.1.1@jar",
-                    "name": "Sodium",
-                    "fileName": "sodium-fabric-0.8.9+mc26.1.1.jar",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 1810286,
-                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/TestServer-26.1/mods/optionaloff/sodium-fabric-0.8.9+mc26.1.1.jar",
-                        "MD5": "fadbbc26a4ec1fe3b61a9201ee8ee61e"
-                    },
-                    "required": {
-                        "value": false,
-                        "def": false
+                        "size": 2501570,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-26.2/mods/required/fabric-api-0.152.1+26.2.jar",
+                        "MD5": "a3e08a838d65822920dcb0aee6dcd6a9"
                     }
                 }
             ]

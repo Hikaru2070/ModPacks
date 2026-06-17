@@ -1,0 +1,21 @@
+{
+    "$schema": "https://launcher-assets.mc.gdev.f5.si/ModPacks/schemas/ServerMetaSchema.schema.json",
+    "meta": {
+        "version": "1.0.0",
+        "name": "GDNMC_Server (Minecraft 26.2)",
+        "description": "Test 26.2",
+        "icon": null,
+        "address": "",
+        "discord": {
+            "shortId": "GDNMC_Server",
+            "largeImageText": "GDNMC_Server (Minecraft 26.2)",
+            "largeImageKey": "server_logo"
+        },
+        "mainServer": true,
+        "autoconnect": true
+    },
+    "minecraftVersion": "26.2",
+    "modLoader": "fabric",
+    "modloaderVersion": "",
+    "untrackedFiles": []
+}
