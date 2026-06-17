@@ -9,9 +9,9 @@
     },
     "servers": [
         {
-            "id": "TestServer-26.1",
-            "name": "TestServer (Minecraft 26.1)",
-            "description": "TestServer 26.1",
+            "id": "TestServer-26.2",
+            "name": "TestServer (Minecraft 26.2)",
+            "description": "TestServer 26.2",
             "icon": null,
             "version": "1.0.0",
             "address": "localhost:25565",
