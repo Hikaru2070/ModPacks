@@ -1351,6 +1351,17 @@
                         "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-26.2/mods/required/fabric-api-0.152.1+26.2.jar",
                         "MD5": "a3e08a838d65822920dcb0aee6dcd6a9"
                     }
+                },
+                {
+                    "id": "local.mods:journeymap:26.2-6.0.0-beta.90@jar",
+                    "name": "Journeymap",
+                    "fileName": "journeymap-fabric-26.2-6.0.0-beta.90.jar",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 4171461,
+                        "url": "https://launcher-assets.mc.gdev.f5.si/servers/GDNMC_Server-26.2/mods/required/journeymap-fabric-26.2-6.0.0-beta.90.jar",
+                        "MD5": "a6ffefa5f44b2cd8f01e290370dca8d4"
+                    }
                 }
             ]
         },
